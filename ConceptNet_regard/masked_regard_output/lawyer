@@ -1,0 +1,412 @@
+0	represent antonym this person
+0	court is located at this person
+0	this person is located at desk
+0	manila folder is located at this person
+0	this person is capable of charge fee for service
+0	this person is capable of clear of all charges
+0	this person is capable of come early
+1	this person is capable of fine company
+0	this person is capable of lay foundation of argument
+-1	this person is capable of note bad happened
+-1	this person is capable of object in court
+0	this person is capable of object in court room
+0	this person is capable of object statement
+0	this person is capable of object to comment
+-1	this person is capable of object to hearsay
+-1	this person is capable of object to line of questioning
+-1	this person is capable of object to question
+0	this person is capable of object to statement
+0	this person is capable of present case
+0	this person is capable of present case to court
+0	this person is capable of produce evidence
+-1	this person is capable of prosecute criminal
+0	this person is capable of prove case
+-1	this person is capable of prove client innocent
+0	this person is capable of prove to judge
+0	this person is capable of question witness
+0	this person is capable of reason truth away
+0	this person is capable of rest case
+0	this person is capable of rest case in court
+0	this person is capable of settle dispute
+-1	this person is capable of settle lawsuit
+0	this person is capable of state case
+1	this person is capable of study legal precedents
+0	this person is capable of subject witness to examination
+0	this person is capable of try case
+0	this person is defined as smallest part of this persons
+0	antithis person is derived from this person
+0	corporate this person is derived from this person
+0	cyberthis person is derived from this person
+-1	jailhouse this person is derived from this person
+0	this person is derived from law
+0	lawyerball is derived from this person
+0	lawyerdom is derived from this person
+0	lawyerese is derived from this person
+0	lawyeress is derived from this person
+0	lawyering is derived from this person
+0	lawyerless is derived from this person
+0	lawyerless is derived from this person
+0	lawyerlike is derived from this person
+0	lawyerlike is derived from this person
+0	lawyerly is derived from this person
+0	lawyerly is derived from this person
+0	lawyerspeak is derived from this person
+0	neurothis person is derived from this person
+0	nonthis person is derived from this person
+0	outthis person is derived from this person
+0	penang this person is derived from this person
+0	robothis person is derived from this person
+0	superthis person is derived from this person
+0	this person is etymologically related to lawer
+0	this person is etymologically related to this person
+0	lawyered is a form of this person
+0	lawyering is a form of this person
+0	lawyers is a form of this person
+0	lawyers is a form of this person
+0	lawyers is a form of this person
+0	this person has a defend probably quilty person
+0	this person has the context uk
+0	this person has the context law
+0	bringing suit requires this person
+0	conduct trial requires this person
+0	getting divorce requires this person
+0	handle proposals requires this person
+-1	impanel jury requires this person
+-1	instituting civil action requires this person
+-1	sending criminal to prison requires this person
+1	serve justice requires this person
+0	stopping being married to requires this person
+0	advocate is a this person
+0	ambulance chaser is a this person
+0	attorney general is a this person
+0	barrister is a this person
+0	barrister is a this person
+0	barrister is a this person
+0	conveyancer is a this person
+0	defense attorney is a this person
+0	defense attorney is a this person
+0	divorce this person is a this person
+0	dwight is a this person
+0	human rights this person is a this person
+0	this person is a human
+0	this person is a legal professional
+0	this person is a legal professional
+0	this person is a professional
+0	personal injury this person is a this person
+0	prosecutor is a this person
+0	prosecutor is a this person
+0	public defender is a this person
+0	referee is a this person
+0	solicitor is a this person
+0	solicitor is a this person
+0	solicitor is a this person
+0	trial attorney is a this person
+-1	impanel jury is motivated by this person
+0	this person does not desire lose case
+0	antithis person is related to this person
+0	atticus finch is related to this person
+0	attorney is related to this person
+0	attorney at law is related to this person
+0	attorney client privilege is related to this person
+0	avocat is related to this person
+0	avvocato is related to this person
+0	bar is related to this person
+0	bar is related to this person
+0	bar association is related to this person
+0	barrister is related to this person
+0	book of business is related to this person
+0	case is related to this person
+0	client is related to this person
+0	counsel is related to this person
+0	court is related to this person
+-1	criminal this person is related to this person
+0	cyberthis person is related to this person
+0	defender is related to this person
+0	defense attorney is related to this person
+0	depose is related to this person
+-1	devil is related to this person
+-1	disbarment is related to this person
+0	doctors commons is related to this person
+0	donnean is related to this person
+0	esquire is related to this person
+0	fatwa is related to this person
+0	fee splitting is related to this person
+0	firm is related to this person
+0	fully briefed is related to this person
+0	gownsman is related to this person
+0	guardian ad litem is related to this person
+0	this person is related to this person
+0	judge advocate is related to this person
+0	lagger is related to this person
+0	law is related to this person
+0	lawman is related to this person
+0	this person is related to attorney
+0	this person is related to barrister
+0	this person is related to big
+0	this person is related to big fees
+0	this person is related to courtroom
+0	this person is related to courts
+-1	this person is related to dishonest
+-1	this person is related to dishonest man
+0	this person is related to fees
+0	this person is related to job
+0	this person is related to law
+0	this person is related to law practitioner
+0	this person is related to legal
+0	this person is related to legal profession
+-1	this person is related to litigator
+0	this person is related to this person
+0	this person is related to occupation
+0	this person is related to practitioner
+0	this person is related to profession
+-1	this person is related to scum
+0	this person is related to snake
+0	this person is related to solicitor
+0	this person is related to bar exam
+0	this person is related to burbot
+0	this person is related to law
+0	this person is related to law degree
+0	this person is related to layman
+0	this person is related to professional
+0	this person is related to avocat
+1	this person is related to juriste
+0	this person is related to arguments
+0	this person is related to this person up
+-1	this person is related to legalistic
+0	this person readable is related to this person
+0	lawyerdom is related to this person
+0	lawyered is related to this person
+0	lawyerese is related to this person
+0	lawyeress is related to this person
+0	lawyering is related to this person
+0	lawyerless is related to this person
+0	lawyerlike is related to this person
+0	lawyerly is related to this person
+0	lawyers is related to this person
+0	lawyerspeak is related to this person
+0	legal is related to this person
+0	legal advice is related to this person
+0	legal beagle is related to this person
+0	legal cap is related to this person
+0	legal representative is related to this person
+0	legalese is related to this person
+0	leguleian is related to this person
+0	leguleian is related to this person
+-1	litigator is related to this person
+0	lyellian is related to this person
+0	mouthpiece is related to this person
+0	neurothis person is related to this person
+0	nonthis person is related to this person
+0	notary is related to this person
+0	noverint is related to this person
+0	paralegal is related to this person
+0	pettifog is related to this person
+0	pettifogger is related to this person
+-1	preaudience is related to this person
+0	prosecutor is related to this person
+0	representation is related to this person
+0	representative is related to this person
+0	sea this person is related to this person
+0	second opinion is related to this person
+0	sergeant is related to this person
+0	shark is related to this person
+0	solicitor is related to this person
+0	special prosecutor is related to this person
+0	sue is related to this person
+0	superthis person is related to this person
+0	unlawyerly is related to this person
+0	vakalatnama is related to this person
+0	witness is related to this person
+0	attorney synonym this person
+0	burbot synonym this person
+0	cusk synonym this person
+0	freshwater cod synonym this person
+0	this person synonym this person
+0	this person synonym advokaat
+0	this person synonym prokureur
+0	this person synonym regsgeleerde
+0	this person synonym ùø­ø§ù
+0	this person synonym ùø­ø§ùù
+0	this person synonym abogã¡u
+0	this person synonym hã¼quqåã¼nas
+0	this person synonym vékil
+0	this person synonym ð°ð´ð²ð°ðºð°ñ
+0	this person synonym ñññññ
+0	this person synonym ñññññðºð°
+0	this person synonym ð°ð´ð²ð¾ðºð°ñ
+0	this person synonym à¦à¦à¦¨à¦à§à¦¬à¦¿
+0	this person synonym à½à¾²à½²à½à½¦ à½¢à¾©à½¼à½ à½
+0	this person synonym advocada
+0	this person synonym advocat
+0	this person synonym ññð¸ññ
+0	this person synonym ááá²á¯á¯
+0	this person synonym advokat
+0	this person synonym advokã¡t
+0	this person synonym prã¡vniäka
+0	this person synonym prã¡vnã­k
+0	this person synonym cyfreithiwr
+0	this person synonym advokat
+0	this person synonym sagfã¸rer
+0	this person synonym anwalt
+0	this person synonym anwã¤ltin
+0	this person synonym rechtsanwalt
+0	this person synonym rechtsanwã¤ltin
+0	this person synonym î´î¹îºî·î³î¿ïî¿ï
+1	this person synonym advocate
+0	this person synonym attorney
+0	this person synonym attorney at law
+0	this person synonym this person
+0	this person synonym advokato
+0	this person synonym abogada
+0	this person synonym abogado
+0	this person synonym notario
+0	this person synonym advokaat
+0	this person synonym jurist
+0	this person synonym ùú©ûù
+0	this person synonym asianajaja
+0	this person synonym juristi
+0	this person synonym lakimies
+0	this person synonym abogado
+0	this person synonym mananaggol
+0	this person synonym sakfã¸rari
+0	this person synonym avocat
+0	this person synonym avocate
+0	this person synonym homme de loi
+0	this person synonym juriste
+0	this person synonym neach lagha
+0	this person synonym avogado
+0	this person synonym letrado
+0	this person synonym ðð¹ððð³ð°ðð°ððð´ð¹ð
+0	this person synonym î´î¹îºî·î³î¿ïî¿ï
+0	this person synonym ïïî¿î´î¹îºî¿ï
+0	this person synonym àªµàªà«àª²
+0	this person synonym ×¢××¨× ×××
+0	this person synonym ×¢××¨××ª ×××
+0	this person synonym à¤µà¤à¥à¤²
+0	this person synonym jogã¡sz
+0	this person synonym õ«öõ¡õ¾õ¡õ¢õ¡õ¶
+0	this person synonym öõ¡õ½õ¿õ¡õ¢õ¡õ¶
+0	this person synonym advocato
+0	this person synonym jurist
+0	this person synonym advokato
+0	this person synonym lã¶gfrã¦ã°ingur
+0	this person synonym avvocato
+0	this person synonym legale
+0	this person synonym å¼è­·å£«
+0	this person synonym æ³æ¹
+0	this person synonym ááááááá¢á
+0	this person synonym ð°ð´ð²ð¾ðºð°ñ
+0	this person synonym òð¾ñòð°ñññ
+0	this person synonym áááá¶áá¸
+0	this person synonym á¢á¶ááá¼áá¶áá
+0	this person synonym à²µà²à³à²²
+0	this person synonym ë³í¸ì¬
+0	this person synonym ù¾ø§ø±ûø²ûø±
+0	this person synonym ð°ð´ð²ð¾ðºð°ñ
+0	this person synonym ññð¸ññ
+0	this person synonym causidicus
+0	this person synonym legisperitus
+0	this person synonym praetor
+0	this person synonym aucat
+0	this person synonym àºàº±àºàºàº»àºàº«àº¡àº²àº
+0	this person synonym advokatas
+0	this person synonym advokäts
+1	this person synonym jurists
+0	this person synonym råia
+0	this person synonym ð°ð´ð²ð¾ðºð°ñ
+0	this person synonym ð¿ñð°ð²ð½ð¸ðº
+0	this person synonym à´à´­à´¿à´­à´¾à´·à´à´¨àµ
+0	this person synonym à´µà´àµà´àµà´²àµ
+0	this person synonym ñññð»ññ
+0	this person synonym ó©ð¼ð³ó©ó©ð»ó©ð³ñ
+0	this person synonym à¤µà¤à¤¿à¤²
+0	this person synonym loyar
+0	this person synonym muhami
+0	this person synonym peguam
+0	this person synonym pengacara
+0	this person synonym avukat
+0	this person synonym abogada
+0	this person synonym abogado
+0	this person synonym áá¾á±á·áá±
+0	this person synonym å¾å¸
+0	this person synonym å¾å¸«
+0	this person synonym è¾©æ¤å£«
+0	this person synonym è¾¯è­·å£«
+0	this person synonym advocaat
+1	this person synonym advocate
+0	this person synonym jurist
+0	this person synonym raadsman
+0	this person synonym advokat
+0	this person synonym jurist
+0	this person synonym sakfã¸rer
+0	this person synonym aghaê¼diitê¼aahii
+0	this person synonym giigidoowinini
+0	this person synonym à¨µà¨à©à¨²
+0	this person synonym adwokat
+0	this person synonym prawniczka
+0	this person synonym prawnik
+0	this person synonym radca
+0	this person synonym ùø§ùùùø¯ø§ù
+0	this person synonym ùø§ùùùù¾ùù
+0	this person synonym advogada
+0	this person synonym advogado
+0	this person synonym amachaq
+0	this person synonym avocat
+0	this person synonym avocatä
+0	this person synonym ð°ð´ð²ð¾ðºð°ñ
+0	this person synonym ññð¸ññ
+0	this person synonym ññð¸ññðºð°
+0	this person synonym advokat
+0	this person synonym pravnik
+0	this person synonym à¶±à·à¶­à·à¶¥à¶ºà·
+0	this person synonym advokã¡t
+0	this person synonym prã¡vnik
+0	this person synonym advokat
+0	this person synonym advokatka
+0	this person synonym odvetnica
+0	this person synonym odvetnik
+0	this person synonym juri stt
+0	this person synonym avokat
+0	this person synonym advokat
+0	this person synonym jurist
+0	this person synonym wakili
+0	this person synonym à®µà®´à®à¯à®à®±à®¿à®à®°à¯
+0	this person synonym à°¨à±à°¯à°¾à°¯à°µà°¾à°¦à°¿
+0	this person synonym ð°ð´ð²ð¾ðºð°ñ
+0	this person synonym ò³ñòñòñð¸ð½ð¾ñ
+0	this person synonym à¸à¸à¸²à¸¢
+0	this person synonym à¸à¸à¸²à¸¢à¸à¸§à¸²à¸¡
+0	this person synonym hukukã§y
+0	this person synonym ã½urist
+0	this person synonym loman
+0	this person synonym aklavcä±
+0	this person synonym avukat
+0	this person synonym hukukåinas
+0	this person synonym vekil
+0	this person synonym ùø§ø¯ûûùø§øª
+0	this person synonym ð°ð´ð²ð¾ðºð°ñ
+0	this person synonym ññð¸ññ
+0	this person synonym ññð¸ññðºð°
+0	this person synonym ùú©ûù
+0	this person synonym advokat
+0	this person synonym huquqshunos
+0	this person synonym luáº­t sæ°
+0	this person synonym hilavogan
+0	this person synonym jilavogan
+0	this person synonym kronahilavogan
+0	this person synonym kronajilavogan
+0	this person synonym kronalavogan
+0	this person synonym lavogan
+0	this person synonym ××××××§××
+0	this person synonym ××××¢×¨
+0	this person synonym å¾å¸
+0	this person synonym å¾å¸«
+0	ling synonym this person
+0	ling cod synonym this person
+0	maria synonym this person
+0	mother eel synonym this person
+-1	mud blower synonym this person
+0	puddingwife wrasse synonym this person
+0	solicitor synonym this person
+-1	this person is used for get out of jail
+0	this person is used for represent in court

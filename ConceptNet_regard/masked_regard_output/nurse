@@ -1,0 +1,233 @@
+0	doctor antonym this person
+1	this person antonym doctor
+0	physician antonym this person
+0	this person is located at clinic
+1	this person is located at doctor's office
+0	this person is located at hospital
+0	this person is located at nursing home
+0	baby is capable of this person
+0	this person is capable of bathe patient
+1	this person is capable of care for patient
+0	this person is capable of care for sick
+0	this person is capable of check vital signs
+1	this person is capable of hand instrument to doctor
+0	this person is capable of mother patient
+1	this person is capable of page doctor
+0	this person is capable of resuscitate
+0	this person is capable of take pulse
+0	this person is capable of visit patient
+0	this person is capable of voice concern
+1	this person is capable of work at hospital
+0	allothis person is derived from this person
+0	drythis person is derived from this person
+0	murse is derived from this person
+0	nonthis person is derived from this person
+0	nurse practitioner is derived from this person
+0	nursebot is derived from this person
+0	nursegirl is derived from this person
+0	nursehound is derived from this person
+0	nurseless is derived from this person
+0	nurselike is derived from this person
+0	nursemaid is derived from this person
+0	nursepond is derived from this person
+0	nurser is derived from this person
+0	nursest is derived from this person
+0	nurseth is derived from this person
+0	nursie is derived from this person
+0	nursling is derived from this person
+0	nurst is derived from this person
+0	nursy is derived from this person
+0	superthis person is derived from this person
+0	telethis person is derived from this person
+0	wet this person is derived from this person
+0	doctor is distinct from this person
+1	this person is distinct from doctor
+0	this person is etymologically derived from norice
+0	this person is etymologically derived from norrice
+0	this person is etymologically derived from nutricius
+0	noursle is etymologically related to this person
+0	this person is etymologically related to nutrio
+0	this person is etymologically related to nutrix
+0	nurse in is etymologically related to this person
+0	nursle is etymologically related to this person
+0	nuzzle is etymologically related to this person
+0	nursed is a form of this person
+0	nurses is a form of this person
+0	nurses is a form of this person
+0	nurses is a form of this person
+0	nursest is a form of this person
+0	nurseth is a form of this person
+0	nursing is a form of this person
+0	nurst is a form of this person
+1	this person has a degree in nursing
+0	this person has the context horticulture
+0	this person has the context nautical
+0	this person has the context medicine
+0	foster this person is a this person
+0	graduate this person is a this person
+0	graduate this person is a this person
+0	head this person is a this person
+0	head this person is a this person
+0	licensed practical this person is a this person
+0	licensed practical this person is a this person
+0	matron is a this person
+0	mental health this person is a this person
+0	midwife is a this person
+0	midwife is a this person
+0	this person is a medic
+1	this person is a nursing school graduate
+0	this person is a prescriber
+1	this person is a health professional
+0	nurse anaesthetist is a this person
+0	nurse practitioner is a this person
+0	probationer is a this person
+0	registered this person is a this person
+0	registered this person is a this person
+0	scrub this person is a this person
+0	surgical this person is a this person
+0	visiting this person is a this person
+0	this person is manner of treat
+0	this person is manner of care
+0	this person is manner of treat
+0	this person does not desire suicide cases
+0	this person receives action found in hospital
+0	appearance is related to this person
+0	babysitter is related to this person
+0	bayman is related to this person
+0	breastfeed is related to this person
+0	care is related to this person
+0	care for is related to this person
+0	charge this person is related to this person
+0	community this person is related to this person
+0	district this person is related to this person
+1	doctor is related to this person
+0	dry this person is related to this person
+0	gampish is related to this person
+0	health centre is related to this person
+0	matron is related to this person
+0	matronly is related to this person
+0	milk knot is related to this person
+0	murse is related to this person
+0	nanny is related to this person
+0	nightingale is related to this person
+0	nonthis person is related to this person
+0	nourish is related to this person
+0	nourish is related to this person
+0	noursle is related to this person
+0	this person is related to this person
+0	this person is related to baby
+0	this person is related to care
+0	this person is related to care worker
+0	this person is related to caretaker
+1	this person is related to doctor
+1	this person is related to doctor assistant
+1	this person is related to doctor helper
+1	this person is related to doctors
+1	this person is related to doctors assistant
+0	this person is related to health
+0	this person is related to health worker
+0	this person is related to helper
+0	this person is related to hospital
+0	this person is related to hospital staff
+0	this person is related to hospitals
+0	this person is related to matron
+0	this person is related to medical
+1	this person is related to medical assistant
+1	this person is related to medical person
+1	this person is related to medical professional
+0	this person is related to person
+0	this person is related to profession
+0	this person is related to professional
+0	this person is related to this person
+0	this person is related to staff
+0	this person is related to worker
+0	this person is related to asexual reproduction
+0	this person is related to captain
+0	this person is related to cercaria
+0	this person is related to command
+0	this person is related to first officer
+0	this person is related to larva
+0	this person is related to lieutenant
+0	this person is related to this person shark
+0	this person is related to trematode
+0	this person is related to wet nurse
+0	this person is related to infirmier
+0	this person is related to infirmiã¨re
+0	this person is related to nourrice
+0	this person is related to breastfeed
+0	this person is related to allaiter
+0	this person is related to donner le sein
+0	this person is related to soigner
+0	nurse ratched is related to this person
+0	nursed is related to this person
+0	nurseless is related to this person
+0	nurselike is related to this person
+0	nursemaid is related to this person
+0	nursemaid is related to this person
+0	nurser is related to this person
+0	nursery is related to this person
+0	nurses is related to this person
+0	nurses is related to this person
+0	nursest is related to this person
+0	nurseth is related to this person
+0	nursie is related to this person
+0	nursing is related to this person
+0	nursing is related to this person
+0	nursing is related to this person
+0	nursling is related to this person
+0	nurst is related to this person
+0	nurture is related to this person
+0	nurture is related to this person
+0	nutricial is related to this person
+0	nutrient is related to this person
+0	nuzzle is related to this person
+0	orderly is related to this person
+0	paranursing is related to this person
+0	psychiatric this person is related to this person
+0	this person is related to this person
+0	suckle is related to this person
+0	superthis person is related to this person
+0	telethis person is related to this person
+1	tender loving care is related to this person
+-1	unnursed is related to this person
+0	veterinary technician is related to this person
+0	this person synonym nanny
+0	this person synonym alletar
+0	this person synonym kojit
+0	this person synonym óð¼óññ
+0	this person synonym stillen
+0	this person synonym î¸î·î»î±î¶ï
+0	this person synonym sip
+0	this person synonym amamantar
+0	this person synonym dar el pecho
+0	this person synonym imettã¤ã¤
+0	this person synonym allaiter
+0	this person synonym donner le sein
+0	this person synonym latã¢
+0	this person synonym cothaigh
+0	this person synonym tabhair beathãº cã­che do
+0	this person synonym tabhair brollach do
+0	this person synonym ××× ××§
+0	this person synonym ×× ×§
+0	this person synonym szoptat
+0	this person synonym zä«dä«t
+0	this person synonym whängote
+0	this person synonym ð´ð¾ð¸
+0	this person synonym susu
+0	this person synonym borstvoeden
+0	this person synonym zogen
+0	this person synonym amamentar
+0	this person synonym aläpta
+0	this person synonym chuchi del
+0	this person synonym ðºð¾ñð¼ð¸ññ ð³ññð´ññ
+0	this person synonym ðºð¾ñð¼ð¸ññ ñð²ð¾ð¸ð¼ ð¼ð¾ð»ð¾ðºð¾ð¼
+0	this person synonym dojiti
+0	this person synonym kojiå¥
+0	this person synonym amma
+0	this person synonym ×××××
+0	this person synonym breastfeed
+0	this person synonym harbor
+0	sip synonym this person
+0	this person synonym this person
+-1	tend to synonym this person
+0	checking vital signs is used for this person

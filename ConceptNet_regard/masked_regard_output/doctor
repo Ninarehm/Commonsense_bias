@@ -1,0 +1,1045 @@
+0	this person antonym nurse
+0	this person antonym patient
+0	nurse antonym this person
+0	advice is located at this person
+0	bandage is located at this person
+0	blood pressure cuff is located at this person
+0	blood pressure machine is located at this person
+0	cotton ball is located at this person
+0	cottonballs is located at this person
+0	couch is located at this person
+0	cure is located at this person
+0	this person is located at clinic
+0	this person is located at this person
+0	this person is located at this person's office
+0	this person is located at this person
+0	this person is located at emergency room
+0	this person is located at golf course
+0	this person is located at hospitak
+1	this person is located at medical office
+1	this person is located at medical school
+0	this person is located at nursing home
+-1	drug reps is located at this person
+-1	drugs is located at this person
+0	exam table is located at this person
+0	examination room is located at this person
+0	examination table is located at this person
+0	examining table is located at this person
+0	flu shot is located at this person
+0	germs is located at this person
+0	hospital is located at this person
+0	hot secretary is located at this person
+0	human is located at this person
+0	hypodermic needle is located at this person
+0	kick of lithium is located at this person
+0	log is located at this person
+0	magazines is located at this person
+0	medical assistant is located at this person
+1	medical expertise is located at this person
+0	medical help is located at this person
+0	medical records is located at this person
+0	medication is located at this person
+1	medicine is located at this person
+0	needle is located at this person
+0	needles is located at this person
+0	pacients is located at this person
+0	paper covered cold tables is located at this person
+0	patiens is located at this person
+0	patients is located at this person
+0	reason for illness is located at this person
+0	this person is located at this person
+0	reflex hammer is located at this person
+0	scale is located at this person
+0	scapel is located at this person
+0	sinks is located at this person
+0	soap is located at this person
+0	stethescope is located at this person
+0	stethoscope is located at this person
+0	stetoscope is located at this person
+0	syringe is located at this person
+0	syringes is located at this person
+0	table is located at this person
+0	thermometer is located at this person
+0	throat swabs is located at this person
+-1	tongue depressor is located at this person
+-1	tongue depressors is located at this person
+0	waiting room is located at this person
+0	waiting room periodicals is located at this person
+0	wall chart is located at this person
+0	white overall is located at this person
+0	white uniforms is located at this person
+0	x ray machine is located at this person
+0	this person is capable of answer questions
+0	this person is capable of belong to ppo
+1	this person is capable of care
+1	this person is capable of care about patients
+1	this person is capable of care for patients
+-1	this person is capable of case pain with drugs
+0	this person is capable of charge fee for services
+0	this person is capable of charge lot of money
+0	this person is capable of check blood pressure
+0	this person is capable of check vital signs
+-1	this person is capable of diagnose medical problem
+2	this person is capable of distance himself
+0	this person is capable of earn lot of money
+0	this person is capable of examine
+0	this person is capable of examine cat scan
+0	this person is capable of examine mri
+0	this person is capable of examine ultrasound
+0	this person is capable of examine x ray
+0	this person is capable of explain disease
+0	this person is capable of explain illness
+0	this person is capable of free patient of disease
+1	this person is capable of give first aid
+0	this person is capable of head community
+1	this person is capable of heal sick person
+1	this person is capable of help maintain good health
+1	this person is capable of help patient
+1	this person is capable of help people feel better
+-1	this person is capable of help sick person
+1	this person is capable of instruct nurse
+-1	this person is capable of let blood
+0	this person is capable of list symptoms of disease
+1	this person is capable of listen to patient
+1	this person is capable of listen to person's heart
+-1	this person is capable of look at sick person
+0	this person is capable of measure height
+0	this person is capable of note symptom
+0	this person is capable of order medicine
+1	this person is capable of perfect golf game
+0	this person is capable of perform surgery
+0	this person is capable of position scalpel against skin
+0	this person is capable of prescribe drug
+1	this person is capable of prescribe medicine
+0	this person is capable of prescribe treatment
+0	this person is capable of provide care
+0	this person is capable of recommend dental treatment for ailments
+0	this person is capable of resuscitate
+1	this person is capable of service community
+-1	this person is capable of set broken arm
+-1	this person is capable of set broken bone
+0	this person is capable of set leg fracture
+0	this person is capable of speak to patient
+0	this person is capable of still patient
+1	this person is capable of study medicine
+0	this person is capable of subject patient to long waits
+0	this person is capable of take pulse
+0	this person is capable of take temperature
+1	this person is capable of think he's god
+0	this person is capable of touch lymph nodes
+0	this person is capable of touch patient
+0	this person is capable of visit patient at home
+0	this person is capable of visit patients on wednesday
+0	this person is capable of wear lab coat
+0	this person is capable of wear latex gloves
+0	duct tape is capable of this person
+0	antithis person is derived from this person
+0	bethis person is derived from this person
+0	doctorable is derived from this person
+0	doctorate is derived from this person
+1	doctordom is derived from this person
+0	doctorer is derived from this person
+0	doctoress is derived from this person
+0	doctorfish is derived from this person
+1	doctorhood is derived from this person
+0	doctorial is derived from this person
+0	doctorish is derived from this person
+1	doctorless is derived from this person
+1	doctorlike is derived from this person
+1	doctorly is derived from this person
+1	doctorship is derived from this person
+0	doctorspeak is derived from this person
+0	doctress is derived from this person
+0	interthis person is derived from this person
+0	intrathis person is derived from this person
+0	multithis person is derived from this person
+0	nonthis person is derived from this person
+0	parathis person is derived from this person
+0	superthis person is derived from this person
+0	witchthis person is derived from this person
+0	this person desires big fancy house
+0	this person desires cure patients
+1	this person desires heal sick
+0	this person desires healthy
+0	this person is distinct from nurse
+0	nurse is distinct from this person
+0	patient is distinct from this person
+0	this person is etymologically derived from this person
+0	this person is etymologically derived from doctour
+0	couch this person is etymologically related to this person
+0	doc is etymologically related to this person
+0	this person is etymologically related to lareow
+0	this person is etymologically related to lã¦ran
+0	this person is etymologically related to lerare
+0	this person is etymologically related to leren
+0	this person is etymologically related to doceo
+0	this person of philosophy is etymologically related to this person
+0	doctrine is etymologically related to this person
+0	ductor is etymologically related to this person
+0	juris this person is etymologically related to this person
+0	spin this person is etymologically related to this person
+0	doctored is a form of this person
+0	doctored is a form of this person
+0	doctoring is a form of this person
+0	doctoring is a form of this person
+1	doctors is a form of this person
+1	doctors is a form of this person
+1	doctors is a form of this person
+1	doctors is a form of this person
+1	this person has a had many years of education
+1	this person has a studied medicine
+1	this person has a very nice eyes
+0	this person has the context roman catholic
+0	this person has the context humorous
+0	this person has the context medicine
+0	get fit requires this person
+0	have physical examination requires this person
+0	having checkup requires this person
+0	having physical exam requires this person
+0	having physical examination requires this person
+1	this person has the property well respected
+-1	abortionist is a this person
+1	addiction medicine specialist is a this person
+0	aids specialist is a this person
+0	allergist is a this person
+0	allergist is a this person
+0	anaesthetist is a this person
+0	angiologist is a this person
+0	attending physician is a this person
+0	belgian this person is a this person
+0	blood banker is a this person
+0	bronchologist is a this person
+0	cardiovascular specialist is a this person
+0	clinical geneticist is a this person
+0	clinical neuropsychologist is a this person
+0	clinical pharmacologist is a this person
+1	critical care medicine specialist is a this person
+0	this person is a this person
+0	dermatologist is a this person
+1	this person is a educated person
+0	this person is a examining patient's record
+1	this person is a expert
+1	this person is a helping woman
+1	this person is a man of science
+0	this person is a one job
+0	this person is a professional
+-1	this person is a who treats sick people
+0	this person is a licensed professional
+0	this person is a medic
+1	this person is a medical school graduate
+0	this person is a person
+0	this person is a prescriber
+0	this person is a worker
+0	this person is a play
+1	this person is a medical practitioner
+1	this person is a scholar
+0	this person is a this person
+0	this person is a fictional character
+0	this person of osteopathy is a this person
+1	emergency medicine specialist is a this person
+0	emergency physician is a this person
+0	endocrinologist is a this person
+0	ent is a this person
+0	epidemiologist is a this person
+0	extern is a this person
+0	forensic specialist is a this person
+0	gastroenterologist is a this person
+0	general practitioner is a this person
+0	general practitioner is a this person
+0	general preventative medical this person is a this person
+0	geriatrician is a this person
+1	good this person is a this person
+0	gynecologist is a this person
+0	gynecologist is a this person
+0	hakim is a this person
+0	hematologist is a this person
+0	hepatologist is a this person
+0	house physician is a this person
+0	immunologist is a this person
+0	infectious disease specialist is a this person
+0	intern is a this person
+0	internist is a this person
+1	legal medicine specialist is a this person
+0	m.d is a this person
+1	medical director is a this person
+0	medical this person is a this person
+0	medical geneticist is a this person
+0	medical hypnosis specialist is a this person
+0	medical toxicologist is a this person
+0	musculoskeletal specialist is a this person
+0	neonatal perinatal specialist is a this person
+0	neonatologist is a this person
+0	neoplastic disease specialist is a this person
+0	nephrologist is a this person
+0	neurologist is a this person
+0	non aoa specialization this person is a this person
+1	nuclear medicine specialist is a this person
+0	obstetrician is a this person
+0	obstetrician is a this person
+0	occupational therapist is a this person
+0	office based private physician is a this person
+0	oncologist is a this person
+0	oncologist is a this person
+0	one kind of health care professional is a this person
+0	one kind of professional is a this person
+0	ophthalmologist is a this person
+0	opthamologist is a this person
+0	orthopaedist is a this person
+1	palliative medicine specialist is a this person
+0	pathologist is a this person
+0	pathologist is a this person
+1	pediatric medicine specialist is a this person
+0	pediatrician is a this person
+0	physical medicine specialist is a this person
+0	podiatrist is a this person
+1	preventive medicine specialist is a this person
+0	primary care physician is a this person
+0	proctologist is a this person
+0	psychiatrist is a this person
+0	psychiatrist is a this person
+0	psychologist is a this person
+0	psychosomatic medicine specialist is a this person
+1	public health specialist is a this person
+0	pulmonologist is a this person
+0	quack is a this person
+0	radiologist is a this person
+0	resident is a this person
+0	rheumatologist is a this person
+0	rhinologist is a this person
+0	russian this person is a this person
+0	sleep medicine specialist is a this person
+0	specialist is a this person
+0	spinal cord injury specialist is a this person
+0	sports medicine specialist is a this person
+0	surgeon is a this person
+0	surgeon is a this person
+0	surgeon is a this person
+0	transitional year this person is a this person
+0	undersea medicine specialist is a this person
+0	urologist is a this person
+0	veterinarian is a this person
+0	veterinarian is a this person
+0	virologist is a this person
+0	william is a this person
+0	this person is manner of treat
+0	vet is manner of this person
+0	check vital signs is motivated by this person
+-1	this person does not desire incurable diseases
+0	this person does not desire malpractice suit
+2	this person does not desire patients to die
+0	this person is part of this person who
+1	this person receives action supposed to make people feel better
+0	allergist is related to this person
+0	antithis person is related to this person
+0	apple is related to this person
+0	appointment is related to this person
+0	asclepius is related to this person
+0	barefoot this person is related to this person
+0	behind counter is related to this person
+0	birth plan is related to this person
+0	checkup is related to this person
+0	chirugion is related to this person
+0	chirurgeon is related to this person
+0	consultation is related to this person
+0	cowleech is related to this person
+0	crocus is related to this person
+0	this person is related to this person
+0	diagnostician is related to this person
+0	doc is related to this person
+0	docent is related to this person
+0	docile is related to this person
+1	doctor's office is related to this person
+0	this person is related to abbreviate
+0	this person is related to abbreviate dr
+0	this person is related to body
+0	this person is related to boss
+0	this person is related to care
+0	this person is related to care giver
+0	this person is related to career
+0	this person is related to caregiver
+0	this person is related to coat
+0	this person is related to coats
+1	this person is related to cures
+1	this person is related to cures people
+-1	this person is related to curing
+-1	this person is related to curing illness
+-1	this person is related to curing person
+0	this person is related to degree
+0	this person is related to degree holder
+0	this person is related to doc
+0	this person is related to this personand
+0	this person is related to dr
+0	this person is related to education
+0	this person is related to equipment
+0	this person is related to examining
+0	this person is related to examining people
+0	this person is related to expert
+0	this person is related to fix
+0	this person is related to fix body
+0	this person is related to fix health
+0	this person is related to fixer
+0	this person is related to fr
+-1	this person is related to fr curing
+0	this person is related to game
+0	this person is related to generic
+0	this person is related to getting
+0	this person is related to getting well
+0	this person is related to giver
+0	this person is related to gives
+1	this person is related to gives medicine
+0	this person is related to go
+-1	this person is related to go sick
+0	this person is related to go to
+0	this person is related to gown
+0	this person is related to guy
+1	this person is related to healer
+1	this person is related to healing
+1	this person is related to healing people
+1	this person is related to healing profession
+0	this person is related to heals
+0	this person is related to health
+1	this person is related to health professional
+0	this person is related to health worker
+0	this person is related to helper
+0	this person is related to helping
+1	this person is related to helping people
+0	this person is related to higher
+0	this person is related to higher education
+0	this person is related to this person
+0	this person is related to holder
+0	this person is related to hospital
+0	this person is related to hospital person
+0	this person is related to hospital work
+0	this person is related to hospitals
+0	this person is related to human
+0	this person is related to human vet
+0	this person is related to illness
+0	this person is related to in hospital
+0	this person is related to in hospitals
+0	this person is related to job
+0	this person is related to lab
+0	this person is related to lab coat
+0	this person is related to licences
+0	this person is related to like
+0	this person is related to like surgeon
+0	this person is related to this person
+0	this person is related to mane
+0	this person is related to md
+0	this person is related to medic
+0	this person is related to medical
+0	this person is related to medical degree
+0	this person is related to medical equipment
+1	this person is related to medical expert
+0	this person is related to medical giver
+1	this person is related to medical guy
+1	this person is related to medical healer
+0	this person is related to medical job
+0	this person is related to medical licences
+1	this person is related to medical man
+0	this person is related to medical occupation
+1	this person is related to medical officer
+1	this person is related to medical person
+1	this person is related to medical personnel
+1	this person is related to medical practitioner
+1	this person is related to medical profession
+1	this person is related to medical professional
+1	this person is related to medical training
+1	this person is related to medical worker
+1	this person is related to medicine
+0	this person is related to medicine giver
+1	this person is related to medicine man
+1	this person is related to medicine mane
+0	this person is related to medicine person
+0	this person is related to money
+0	this person is related to much
+0	this person is related to much money
+0	this person is related to nickname
+0	this person is related to nickname doc
+1	this person is related to noble
+1	this person is related to noble profession
+0	this person is related to nurse
+0	this person is related to nurse boss
+0	this person is related to nurses
+0	this person is related to nurses boss
+0	this person is related to nurses hospitals
+0	this person is related to occupation
+0	this person is related to office
+0	this person is related to officer
+0	this person is related to patient
+0	this person is related to patients
+0	this person is related to pediatrician
+0	this person is related to people
+0	this person is related to person
+0	this person is related to personnel
+0	this person is related to phd
+0	this person is related to this person
+1	this person is related to physician generic
+1	this person is related to physician title
+0	this person is related to pills
+0	this person is related to position
+0	this person is related to practitioner
+0	this person is related to prof
+0	this person is related to profession
+0	this person is related to professional
+0	this person is related to professional position
+0	this person is related to purse
+0	this person is related to scrubs
+0	this person is related to sick
+-1	this person is related to sick fixer
+0	this person is related to sick helper
+-1	this person is related to sick people
+0	this person is related to specialist
+0	this person is related to stethoscope
+0	this person is related to surgeon
+0	this person is related to surgeon person
+0	this person is related to title
+0	this person is related to training
+0	this person is related to usually
+0	this person is related to usually man
+0	this person is related to vet
+0	this person is related to well
+0	this person is related to when
+0	this person is related to when sick
+0	this person is related to white
+0	this person is related to white coat
+0	this person is related to white coats
+0	this person is related to white gown
+0	this person is related to work
+0	this person is related to worker
+0	this person is related to works
+0	this person is related to works hospital
+0	this person is related to you
+0	this person is related to animal
+0	this person is related to college
+-1	this person is related to contrivance
+0	this person is related to d.a.o.m
+0	this person is related to d.a.s
+0	this person is related to d.a
+0	this person is related to d.arch
+0	this person is related to d.b.a
+0	this person is related to d.c.j
+0	this person is related to d.c.l
+0	this person is related to d.c.s
+0	this person is related to d.c
+0	this person is related to d.chem
+0	this person is related to d.crim
+0	this person is related to d.d.s
+0	this person is related to d.d
+0	this person is related to d.e.d
+0	this person is related to d.e.sc
+0	this person is related to d.eng
+0	this person is related to d.env
+0	this person is related to d.f.a
+0	this person is related to d.f
+0	this person is related to d.g.s
+0	this person is related to d.h.l
+0	this person is related to d.h.s
+0	this person is related to d.i.t
+0	this person is related to d.l.s
+0	this person is related to d.litt
+0	this person is related to d.m.a
+0	this person is related to d.m.d
+0	this person is related to d.m.e
+0	this person is related to d.m.l
+0	this person is related to d.m.m
+0	this person is related to d.m.sc
+0	this person is related to d.m
+0	this person is related to d.min
+0	this person is related to d.mus
+0	this person is related to d.n.sc
+0	this person is related to d.o
+0	this person is related to d.p.a
+0	this person is related to d.p.e
+0	this person is related to d.p.h
+0	this person is related to d.p.m
+0	this person is related to d.p.s
+0	this person is related to d.p.t
+0	this person is related to d.r.e
+0	this person is related to d.rec
+0	this person is related to d.s.m
+0	this person is related to d.s.sc
+0	this person is related to d.s.w
+0	this person is related to d.sc.d
+0	this person is related to d.sc.h
+0	this person is related to d.sc.v.m
+0	this person is related to d.sc
+0	this person is related to d.tech
+0	this person is related to d.univ
+0	this person is related to d.v.m
+0	this person is related to dc
+0	this person is related to dds
+0	this person is related to dmd
+0	this person is related to this personate
+0	this person is related to dpm
+0	this person is related to dpt
+0	this person is related to dr.des
+0	this person is related to ed.d
+-1	this person is related to exigency
+0	this person is related to friar skate
+0	this person is related to j.c.d
+0	this person is related to j.d
+0	this person is related to l.sc.d
+0	this person is related to ll.d
+0	this person is related to m.d
+0	this person is related to mbbs
+0	this person is related to mechanical
+1	this person is related to medicine
+0	this person is related to o.d
+0	this person is related to ph.d
+0	this person is related to pharm.d
+0	this person is related to this person
+0	this person is related to practitioner
+0	this person is related to profession
+0	this person is related to psy.d
+0	this person is related to rh.d
+0	this person is related to s.j.d
+0	this person is related to s.t.d
+0	this person is related to this person
+0	this person is related to terminal degree
+0	this person is related to th.d
+0	this person is related to uk
+0	this person is related to university
+0	this person is related to us
+0	this person is related to veterinarian
+0	this person is related to docteur
+0	this person is related to mã©decin
+0	this person is related to behandeln
+0	this person is related to fã¤lschen
+0	this person is related to informell
+0	this person is related to kastrieren
+0	this person is related to mehrdeutig
+0	this person is related to reparieren
+0	this person is related to vergiften
+0	this person is related to alter
+0	this person is related to confer
+-1	this person is related to deceive
+0	this person is related to this personate
+1	this person is related to medicine
+0	this person is related to obscure
+0	this person is related to empoisonner
+-1	this person is related to falsifier
+0	this person is related to soigner
+0	this person who is related to this person
+1	doctorable is related to this person
+0	doctorally is related to this person
+0	doctorate is related to this person
+1	doctordom is related to this person
+0	doctored is related to this person
+0	doctorer is related to this person
+0	doctoress is related to this person
+0	doctorest is related to this person
+0	doctoreth is related to this person
+1	doctorhood is related to this person
+0	doctoring is related to this person
+0	doctorish is related to this person
+2	doctorishness is related to this person
+1	doctorless is related to this person
+1	doctorlike is related to this person
+0	doctorling is related to this person
+1	doctorly is related to this person
+1	doctors is related to this person
+1	doctors is related to this person
+0	doctorspeak is related to this person
+0	doctress is related to this person
+0	doctrinaire is related to this person
+0	doctrinal is related to this person
+1	doctrine is related to this person
+0	dr is related to this person
+0	ed.d is related to this person
+0	examination is related to this person
+-1	fakery is related to this person
+0	fingergate is related to this person
+0	fit note is related to this person
+0	geriatrician is related to this person
+0	haematologist is related to this person
+0	hakim is related to this person
+0	heal is related to this person
+0	health is related to this person
+0	hiccius doctius is related to this person
+0	house is related to this person
+0	iatro is related to this person
+0	iatrophobe is related to this person
+-1	iatrophobia is related to this person
+0	indoctrinate is related to this person
+0	inyanga is related to this person
+0	is anyone here this person is related to this person
+0	jordan is related to this person
+0	locum tenens is related to this person
+0	lokun is related to this person
+0	mangubat is related to this person
+0	matchbox sign is related to this person
+0	md is related to this person
+0	this person is related to this person
+0	medic is related to this person
+0	medician is related to this person
+1	medicine is related to this person
+0	mediciner is related to this person
+0	medico is related to this person
+0	mercurialist is related to this person
+0	multithis person is related to this person
+0	noble is related to this person
+0	nonthis person is related to this person
+0	nostradamus is related to this person
+0	nurse is related to this person
+0	o.d is related to this person
+0	od is related to this person
+0	oncologist is related to this person
+0	operation is related to this person
+0	ophthalmologist is related to this person
+0	otologist is related to this person
+-1	pain is related to this person
+0	panel is related to this person
+0	parathis person is related to this person
+0	patient is related to this person
+0	patient is related to this person
+0	pecker checker is related to this person
+0	pediatrician is related to this person
+0	pepper is related to this person
+0	ph.d is related to this person
+0	pharmacracy is related to this person
+0	this person is related to this person
+0	this person is related to this person
+0	physicker is related to this person
+0	pill hill is related to this person
+0	this person is related to this person
+0	psychologist is related to this person
+0	psychology is related to this person
+0	quack is related to this person
+0	reflex is related to this person
+0	registrar is related to this person
+0	robodoc is related to this person
+0	saludador is related to this person
+0	sergeant is related to this person
+0	sick note is related to this person
+0	signature is related to this person
+0	specialist is related to this person
+0	stitch is related to this person
+0	superthis person is related to this person
+0	surgeon is related to this person
+0	surgery is related to this person
+0	surgery hours is related to this person
+1	teaching hospital is related to this person
+-1	unhippocratic is related to this person
+0	unit is related to this person
+0	vet is related to this person
+0	veterinarian is related to this person
+0	veterinarian is related to this person
+0	veterinary surgeon is related to this person
+0	virologist is related to this person
+0	visit is related to this person
+-1	wrongful birth is related to this person
+0	doc synonym this person
+0	this person synonym dokter
+0	this person synonym ááªá
+0	this person synonym lã¦ce
+0	this person synonym ø­ùùù
+0	this person synonym ø¯ùøªùø±
+0	this person synonym ø·ø¨ùø¨
+0	this person synonym ××¡××
+0	this person synonym üü£üü
+0	this person synonym mã©dica
+0	this person synonym mã©dicu
+0	this person synonym doktor
+0	this person synonym hékim
+0	this person synonym ð´ð¾ðºñð°ñ
+0	this person synonym ð»ðµðºð°ñ
+0	this person synonym ð»ðµðºð°ñðºð°
+0	this person synonym ññð°ñ
+0	this person synonym ð´ð¾ðºñð¾ñ
+0	this person synonym ð»ðµðºð°ñ
+0	this person synonym à¦¡à¦¾à¦à§à¦¤à¦¾à¦°
+0	this person synonym à½¨à½ºà½ à½à½²
+0	this person synonym doktor
+0	this person synonym doktorez
+0	this person synonym metge
+0	this person synonym metgessa
+0	this person synonym ð»ð¾ñ
+0	this person synonym mantatambal
+0	this person synonym doktor
+0	this person synonym lã©kaå
+0	this person synonym meddyg
+0	this person synonym meddyges
+0	this person synonym doktor
+0	this person synonym lã¦ge
+0	this person synonym arzt
+0	this person synonym doktor
+0	this person synonym doktorin
+0	this person synonym dr
+0	this person synonym mediziner
+0	this person synonym medizinerin
+0	this person synonym ã¤rztin
+0	this person synonym dotuar
+0	this person synonym medco
+0	this person synonym duchtaå
+0	this person synonym gã³jc
+0	this person synonym atikewéla
+0	this person synonym éékta
+0	this person synonym dutã¥ur
+0	this person synonym î¹î±ïïî¿ï
+0	this person synonym doc
+0	this person synonym this person
+0	this person synonym vet
+0	this person synonym kuracistino
+0	this person synonym kuracisto
+0	this person synonym virkuracisto
+0	this person synonym mã©dica
+0	this person synonym mã©dico
+0	this person synonym arst
+0	this person synonym doktor
+0	this person synonym osagile
+0	this person synonym sendagile
+0	this person synonym ø­ú©ûù
+0	this person synonym ø¯ú©øªø±
+0	this person synonym ø·ø¨ûø¨
+0	this person synonym ù¾ø²ø´ú©
+0	this person synonym lã¤ã¤kã¤ri
+0	this person synonym tohtori
+0	this person synonym tri
+0	this person synonym doktor
+0	this person synonym lã¦kni
+0	this person synonym docteur
+0	this person synonym mã©decin
+0	this person synonym fisician
+0	this person synonym dotã´r
+0	this person synonym miedi
+0	this person synonym dochtãºir
+0	this person synonym dotair
+0	this person synonym lighiche
+0	this person synonym lã¨igh
+0	this person synonym doutor
+0	this person synonym mã©dico
+0	this person synonym î¹î±ïïî¿ï
+0	this person synonym ben lhee
+0	this person synonym fer lhee
+0	this person synonym lhee
+0	this person synonym åç
+0	this person synonym kauka
+0	this person synonym ×××§×××¨
+0	this person synonym ×¨××¤×
+0	this person synonym ×¨××¤××
+0	this person synonym à¤à¤¿à¤à¤¿à¤¤à¥à¤¸à¤
+0	this person synonym à¤¡à¤¾à¤à¥à¤à¤°
+0	this person synonym à¤¡à¥à¤à¥à¤à¤°
+0	this person synonym à¤µà¥à¤¦à¥à¤¯
+0	this person synonym à¤¹à¤à¥à¤®
+0	this person synonym doktor
+0	this person synonym doktornå
+-1	this person synonym orvos
+0	this person synonym orvosnå
+0	this person synonym õ¢õªõ«õ·õ¯
+0	this person synonym mediko
+0	this person synonym lã¦knir
+0	this person synonym dottor
+0	this person synonym dottore
+0	this person synonym dottoressa
+0	this person synonym medico
+0	this person synonym åç
+0	this person synonym å»å¸«
+0	this person synonym å»è
+0	this person synonym åå£«
+0	this person synonym áá¥ááá
+0	this person synonym dagitari
+0	this person synonym ð´óññð³ðµñ
+0	this person synonym nakorsaq
+0	this person synonym áááá¼ááááá
+0	this person synonym ááááá
+0	this person synonym áááááá áá
+0	this person synonym á áá
+0	this person synonym åå£«
+0	this person synonym é«å¸«
+0	this person synonym ë°ì¬
+0	this person synonym ìì¬
+0	this person synonym bijã®åk
+0	this person synonym doktor
+0	this person synonym nojdar
+0	this person synonym tixtor
+0	this person synonym ø¯ú©øªûø±
+0	this person synonym doktour
+0	this person synonym medhek
+0	this person synonym medhoges
+0	this person synonym ð´ð°ññð³ðµñ
+0	this person synonym medica
+0	this person synonym medicus
+0	this person synonym àºà»àº²àºàº«àº¡à»
+0	this person synonym àº«àº¡à»
+0	this person synonym à»àºàº
+0	this person synonym daktaras
+0	this person synonym gydytojas
+0	this person synonym ärste
+0	this person synonym ärsts
+0	this person synonym rata
+0	this person synonym täkuta
+0	this person synonym ð»ðµðºð°ñ
+0	this person synonym ð»ðµðºð°ñðºð°
+0	this person synonym ñð¼ñ
+0	this person synonym à¤¡à¥à¤à¥à¤à¤°
+0	this person synonym dokter
+0	this person synonym doktor
+0	this person synonym tabib
+0	this person synonym tabiba
+0	this person synonym ááá¬áááº
+0	this person synonym åç
+0	this person synonym é«ç
+0	this person synonym dokter
+0	this person synonym dokterin
+0	this person synonym doktersch
+0	this person synonym doktersche
+0	this person synonym arts
+0	this person synonym dokter
+0	this person synonym lege
+0	this person synonym medike
+0	this person synonym docteu
+0	this person synonym azeeê¼ã­ã­åê¼ã­nã­
+0	this person synonym mã¨tge
+0	this person synonym à¬¡à¬¾à¬à­à¬¤à¬°
+0	this person synonym à¨¹à¨à©à¨®
+0	this person synonym lekarka
+0	this person synonym lekarz
+0	this person synonym medyk
+0	this person synonym ø­ú©ùù
+0	this person synonym ø¯ú©øªùø±
+0	this person synonym ø·ø¨ùø¨
+0	this person synonym úø§ú©ù¼ø±
+0	this person synonym doutor
+0	this person synonym doutora
+0	this person synonym mã©dico
+0	this person synonym jampiq
+0	this person synonym medi
+0	this person synonym this person
+0	this person synonym this personièä
+0	this person synonym medic
+0	this person synonym medicä
+0	this person synonym ð²ñð°ñ
+0	this person synonym ð´ ñ
+0	this person synonym ð´ð¾ðºñð¾ñ
+0	this person synonym ð»ðµðºð°ññ
+0	this person synonym ð¼ðµð´ð¸ðº
+0	this person synonym à¤à¤¿à¤à¤¿à¤¤à¥à¤¸à¤
+0	this person synonym à¤­à¤¿à¤·à¤à¥
+0	this person synonym à¤µà¥à¤¦à¥à¤¯
+0	this person synonym datori
+0	this person synonym medicu
+0	this person synonym medicu
+0	this person synonym lekar
+0	this person synonym lekarka
+0	this person synonym leänica
+0	this person synonym leänik
+0	this person synonym lijeänica
+0	this person synonym lijeänik
+0	this person synonym ljekar
+0	this person synonym ljekarka
+0	this person synonym vraäitelj
+0	this person synonym vraäiteljica
+0	this person synonym zdravnica
+0	this person synonym zdravnik
+0	this person synonym à¶¯à·à·à·à¶­à¶»
+0	this person synonym à·à·à¶¯à·âà¶ºà·à¶»à¶ºà·
+0	this person synonym doktor
+0	this person synonym lekã¡r
+0	this person synonym zdravnica
+0	this person synonym zdravnik
+0	this person synonym mjek
+0	this person synonym ngaka
+0	this person synonym doktor
+0	this person synonym lã¤kare
+0	this person synonym daktari
+0	this person synonym dokta
+0	this person synonym à®®à®°à¯à®¤à¯à®¤à¯à®µà®°à¯
+0	this person synonym à®µà¯à®¤à®¿à®¯à®°à¯
+0	this person synonym à°µà±à°¦à±à°¯à±à°¡à±
+0	this person synonym ð´ð¾ðºñð¾ñ
+0	this person synonym ð¿ð¸ð·ð¸ñðº
+0	this person synonym ñð°ð±ð¸ð±
+0	this person synonym ò³ð°ðºð¸ð¼
+0	this person synonym à¸«à¸¡à¸­
+0	this person synonym à¹à¸§à¸
+0	this person synonym à¹à¸à¸à¸¢à¹
+0	this person synonym á¶á­á°á­
+0	this person synonym hekim
+0	this person synonym wraã§
+0	this person synonym ð²ñð°ñ
+0	this person synonym dokta
+0	this person synonym doktor
+0	this person synonym hekim
+0	this person synonym sagan
+0	this person synonym tabip
+0	this person synonym ð´ð¾ðºñð¾ñ
+0	this person synonym ñð°ð±ð¸ð±
+0	this person synonym øªûûùù¾
+0	this person synonym ø¯ùø®øªûø±
+0	this person synonym ð´ð¾ðºñð¾ñ
+0	this person synonym ð»ñðºð°ñ
+0	this person synonym ø­ú©ûù
+0	this person synonym ø·ø¨ûø¨
+0	this person synonym úø§ú©ù¹ø±
+0	this person synonym doktor
+0	this person synonym hakim
+0	this person synonym shifokor
+0	this person synonym tabib
+0	this person synonym dotor
+0	this person synonym medego
+0	this person synonym miedego
+0	this person synonym mã¨dego
+0	this person synonym bã¡c sä©
+0	this person synonym bã¡c sä© y khoa
+0	this person synonym tiáº¿n sä©
+0	this person synonym é²å£«
+0	this person synonym hisanan
+0	this person synonym jisanan
+0	this person synonym medinel
+0	this person synonym sanan
+0	this person synonym sanel
+0	this person synonym docteur
+0	this person synonym this personesse
+0	this person synonym medcã©n
+0	this person synonym mã©de
+0	this person synonym ×××§××¢×¨
+0	this person synonym canghyw
+0	this person synonym twaéiéu
+0	this person synonym å»å¸
+0	this person synonym å»ç
+0	this person synonym åå£«
+0	this person synonym å¤§å¤«
+0	this person synonym é«å¸«
+0	this person synonym é«ç
+0	this person synonym inyanga
+0	this person synonym udokotela
+0	this person synonym ugedla
+0	this person synonym umelaphi
+0	this person synonym this person
+0	this person synonym formell
+0	this person synonym treat
+0	this person synonym repair
+0	this person synonym sophisticate
+0	this person of church synonym this person
+1	doctorate synonym this person
+0	dr synonym this person
+-1	falsify synonym this person
+0	fix synonym this person
+0	md synonym this person
+0	medico synonym this person
+0	medico synonym this person
+0	this person synonym this person
+0	this person synonym this person
+0	this person synonym this person
+0	this person synonym this person
+0	checking vital signs is used for this person
+-1	this person is used for curing person's disease
+0	this person is used for diagnose
+-1	this person is used for diagnose illnesses
+-1	this person is used for diagnosing peoples problems
+0	this person is used for employing nurses
+-1	this person is used for funding drug industry
+0	this person is used for heal
+1	this person is used for healing
+1	this person is used for healing injured
+1	this person is used for healing sick
+0	this person is used for help have baby
+0	this person is used for keeping hospitals running
+1	this person is used for maintaining health
+1	this person is used for making feel better
+0	this person is used for paying golf fees
+-1	this person is used for prescribe narcotics
+1	this person is used for providing expert information
+0	this person is used for treating patient
+0	this person is used for visiting when ill

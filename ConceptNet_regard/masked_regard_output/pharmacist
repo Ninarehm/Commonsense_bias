@@ -1,0 +1,131 @@
+0	this person is capable of fill prescription
+-1	this person is capable of issue drug
+0	this person is capable of supply prescription drugs
+0	this person is capable of work in pharmacy
+0	ethnothis person is derived from this person
+0	nonthis person is derived from this person
+0	this person is derived from pharmacy
+0	polythis person is derived from this person
+0	radiothis person is derived from this person
+0	pharmacists is a form of this person
+-1	this person has a job of selling drugs
+0	this person has the context this person
+0	this person has the context pharmacy
+0	clinical registered this person is a this person
+0	institutional this person is a this person
+1	this person is a medical care professional
+1	this person is a health professional
+0	pharmacologist is a this person
+0	retail this person is a this person
+0	alchemist is related to this person
+0	behind counter is related to this person
+0	chemist is related to this person
+0	nonthis person is related to this person
+0	pharmaceutical is related to this person
+0	pharmacian is related to this person
+0	this person is related to pharmacy
+0	this person is related to hospital
+0	this person is related to pharmaceutical
+0	this person is related to pharmacy
+0	this person is related to retail pharmacy
+0	this person is related to apothicaire
+0	this person is related to pharmacien
+0	pharmacists is related to this person
+0	pharmacopole is related to this person
+0	pharmacy is related to this person
+0	apothecary synonym this person
+0	apothecary synonym this person
+0	chemist synonym this person
+0	chemist synonym this person
+0	dispensing chemist synonym this person
+-1	druggist synonym this person
+-1	druggist synonym this person
+0	this person synonym this person
+0	this person synonym øµùø¯ùù
+0	this person synonym ð°ð¿ññðºð°ñ
+0	this person synonym ð°ð¿ññðºð°ñðºð°
+0	this person synonym ñð°ñð¼ð°ññññ
+0	this person synonym ð°ð¿ñðµðºð°ñ
+0	this person synonym ñð°ñð¼ð°ñðµð²ñ
+0	this person synonym farmacã¨utic
+0	this person synonym farmaceut
+0	this person synonym lã©kã¡rnã­k
+0	this person synonym apoteker
+0	this person synonym farmaceut
+0	this person synonym farmakonom
+0	this person synonym apotheker
+0	this person synonym apothekerin
+0	this person synonym ïî±ïî¼î±îºî¿ïî¿î¹î¿ï
+0	this person synonym apothecary
+0	this person synonym chemist
+-1	this person synonym dispensing chemist
+-1	this person synonym druggist
+0	this person synonym pharmaceutical chemist
+0	this person synonym apoticario
+0	this person synonym boticario
+0	this person synonym farmacã©utica
+0	this person synonym farmacã©utico
+0	this person synonym ø¯ø§ø±ùø³ø§ø²
+0	this person synonym ø¯ø§ø±ùú¯ø±
+0	this person synonym apteekkari
+0	this person synonym farmaseutti
+0	this person synonym proviisori
+0	this person synonym apothicaire
+0	this person synonym pharmacien
+0	this person synonym pharmacienne
+0	this person synonym apoteker
+0	this person synonym cã³gaiseoir
+0	this person synonym poitigã©ir
+0	this person synonym farmacã©utico
+0	this person synonym ×¨××§×
+0	this person synonym patikus
+0	this person synonym apã³tekari
+0	this person synonym lyfsali
+0	this person synonym farmacista
+0	this person synonym è¬å¤å¸«
+0	this person synonym á¤áá áááªááá¢á
+0	this person synonym á±áááá¶áá·áá¸
+0	this person synonym á±áááá¶áá¸
+0	this person synonym ì½ì¬
+0	this person synonym vaistininkas
+0	this person synonym vaistininke
+0	this person synonym ð°ð¿ñðµðºð°ñ
+0	this person synonym ñð°ñð¼ð°ñðµð²ñ
+0	this person synonym apoteker
+0	this person synonym spiå¼jar
+0	this person synonym apotheker
+0	this person synonym apotekar
+0	this person synonym apoteker
+0	this person synonym farmasã¸yt
+0	this person synonym apotitchi
+0	this person synonym azeeê¼ baa nahaniihã­
+0	this person synonym aptekarka
+0	this person synonym aptekarz
+0	this person synonym farmacãªutico
+0	this person synonym farmacist
+0	this person synonym farmacistä
+0	this person synonym ð°ð¿ñðµðºð°ññð°
+0	this person synonym ð°ð¿ñðµðºð°ññ
+0	this person synonym ñð°ñð¼ð°ñðµð²ñ
+0	this person synonym apotekar
+0	this person synonym farmaceut
+0	this person synonym lekã¡rnik
+0	this person synonym lekarnar
+0	this person synonym lekarnarka
+0	this person synonym apotekare
+0	this person synonym ð°ð¿ñðµðºð°ñ
+0	this person synonym ð°ð¿ñðµðºð°ñðºð°
+0	this person synonym dæ°á»£c sä©
+0	this person synonym drogan
+0	this person synonym hidrogan
+0	this person synonym hipã¶tekan
+0	this person synonym jidrogan
+0	this person synonym jipã¶tekan
+0	this person synonym pã¶tekan
+0	this person synonym ××¤××××§×¢×¨
+0	this person synonym ××¤××××§×¢×¨××
+0	this person synonym è¯åå¸
+0	this person synonym è¥åå¸«
+0	this person synonym è¥å¸«
+-1	pill pusher synonym this person
+-1	pill roller synonym this person

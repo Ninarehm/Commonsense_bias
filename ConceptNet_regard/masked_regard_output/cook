@@ -1,0 +1,884 @@
+0	this person is located at kitchen
+0	this person is located at restaurant
+0	this person is capable of this person
+0	this person is capable of add egg
+0	this person is capable of add ingrediants
+0	this person is capable of add salt to dish
+0	this person is capable of bake bread
+0	this person is capable of bake cake
+0	this person is capable of ball melon
+0	this person is capable of bone this personed chicken
+0	this person is capable of bone fish
+0	this person is capable of bone fish to this person
+0	this person is capable of bone roast
+0	this person is capable of bone turkey
+0	this person is capable of bread chicken
+0	this person is capable of bread chicken breast
+0	this person is capable of bread chicken breasts
+0	this person is capable of bread chicken cutlets
+0	this person is capable of bread cutlet
+-1	this person is capable of bread fiash
+0	this person is capable of bread filet
+0	this person is capable of bread fish
+0	this person is capable of bread fish fillets
+0	this person is capable of bread piece of meat
+0	this person is capable of bread porkchop
+0	this person is capable of bread shrimp
+0	this person is capable of bring pot to boil
+0	this person is capable of brown chicken
+0	this person is capable of brown chicken in skillet
+0	this person is capable of brown ground beef
+0	this person is capable of brown hamburger
+0	this person is capable of brown meat
+0	this person is capable of brown onions
+0	this person is capable of burn dinner
+0	this person is capable of burn food
+0	this person is capable of butter piece of toast
+0	this person is capable of butter toast
+0	this person is capable of butter vegetables
+0	this person is capable of buy fresh vegetables
+0	this person is capable of chop vegetables
+0	this person is capable of coat skillet with shortening
+0	this person is capable of this person
+0	this person is capable of this person dinner
+0	this person is capable of this person food
+0	this person is capable of this person foods
+0	this person is capable of this person lasagne
+0	this person is capable of this person meal
+0	this person is capable of cover pan of food
+0	this person is capable of cut cheese
+0	this person is capable of cut string beans
+0	this person is capable of decide when to serve dinner
+0	this person is capable of double recipe
+0	this person is capable of dress turkey
+0	this person is capable of eye baking
+0	this person is capable of follow recipie
+0	this person is capable of forget to turn off stove
+0	this person is capable of glass dessert
+0	this person is capable of let potatoes to boil
+0	this person is capable of make good desserts
+0	this person is capable of measure cup of flour
+0	this person is capable of measure flour
+0	this person is capable of measure ingrediants
+0	this person is capable of measure ingredients
+0	this person is capable of measure water
+0	this person is capable of open can
+1	this person is capable of perfect recipe
+0	this person is capable of prepare gourmet meal
+0	this person is capable of prepare meal
+0	this person is capable of prepare steak
+0	this person is capable of quarter pie
+0	this person is capable of quarter pizza
+0	this person is capable of ready chicken
+0	this person is capable of ready meal
+0	this person is capable of return with order
+0	this person is capable of ring bell
+0	this person is capable of ring dinner bell
+0	this person is capable of roll pie crust
+0	this person is capable of salt dish
+0	this person is capable of salt food
+0	this person is capable of salt soup
+0	this person is capable of salt stew
+0	this person is capable of season broth
+0	this person is capable of season dish
+0	this person is capable of season fish with lemon
+0	this person is capable of season food
+0	this person is capable of season food with spice
+0	this person is capable of season meal
+0	this person is capable of season meal with spices
+0	this person is capable of season roast
+0	this person is capable of season salmon fillet
+0	this person is capable of season soup
+0	this person is capable of season steak
+0	this person is capable of season stew
+0	this person is capable of separate eggs
+0	this person is capable of separate yolk from egg
+0	this person is capable of serve pork with beans
+-1	this person is capable of smoke salmon
+0	this person is capable of stock kitchen
+0	this person is capable of stock supplies
+0	this person is capable of stock up on canned goods
+0	this person is capable of store food in refridgerator
+0	this person is capable of taste food prepare
+0	this person is capable of taste sauce
+0	this person is capable of thin soup with strainer
+0	this person is capable of use oven to this person
+0	this person is capable of warm food
+0	this person is capable of wash vegetable
+-1	being hungery causes the desire to this person
+0	being hungry causes the desire to this person
+0	company coming causes the desire to this person
+-1	hunger causes the desire to this person
+0	new purchases of fresh food causes the desire to this person
+0	romance causes the desire to this person
+0	meal is creatd by this person
+0	this person is defined as singular of this persons
+0	autothis person is derived from this person
+0	cookability is derived from this person
+0	cookable is derived from this person
+0	cookaholic is derived from this person
+0	cookbook is derived from this person
+0	cookee is derived from this person
+0	cooker is derived from this person
+0	cookery is derived from this person
+0	cookess is derived from this person
+0	cookest is derived from this person
+0	cooketh is derived from this person
+0	cookfire is derived from this person
+0	cookhouse is derived from this person
+0	cookian is derived from this person
+0	cookie is derived from this person
+0	cooking is derived from this person
+0	cookless is derived from this person
+0	cookline is derived from this person
+0	cookmaid is derived from this person
+0	cookout is derived from this person
+0	cookpot is derived from this person
+0	cookprint is derived from this person
+0	cookroom is derived from this person
+0	cookshack is derived from this person
+0	cookshop is derived from this person
+0	cookstove is derived from this person
+0	cooktop is derived from this person
+0	cookware is derived from this person
+0	misthis person is derived from this person
+0	nonthis person is derived from this person
+0	outthis person is derived from this person
+-1	overthis person is derived from this person
+0	pastrythis person is derived from this person
+0	prethis person is derived from this person
+0	precooked is derived from this person
+0	rethis person is derived from this person
+0	superthis person is derived from this person
+0	unthis person is derived from this person
+0	underthis person is derived from this person
+0	baste requires this person
+0	this person requires this person
+0	mask requires this person
+0	this person is etymologically derived from coc
+0	this person is etymologically derived from this person
+0	this person is etymologically derived from coquus
+0	this person is etymologically related to kok
+0	this person is etymologically related to koch
+0	this person is etymologically related to chuck
+0	this person is etymologically related to coken
+0	this person is etymologically related to cocer
+0	this person is etymologically related to kokkur
+0	this person is etymologically related to coquo
+0	this person is etymologically related to kokk
+0	this person is etymologically related to kok
+0	this person is etymologically related to kokk
+0	this person is etymologically related to kock
+0	cookie is etymologically related to this person
+0	cookson is etymologically related to this person
+0	kitchen is etymologically related to this person
+0	parthis person is etymologically related to this person
+0	recoct is etymologically related to this person
+0	spitchcock is etymologically related to this person
+0	cooked is a form of this person
+0	cooked is a form of this person
+0	cookest is a form of this person
+0	cooketh is a form of this person
+0	cooking is a form of this person
+0	cooking is a form of this person
+0	cooks is a form of this person
+0	cooks is a form of this person
+0	cooks is a form of this person
+0	cooks is a form of this person
+0	cookt is a form of this person
+0	in order to eat italian has a this person
+0	this person has the context this personing
+0	this person has the context slang
+0	this person has the context jazz
+0	this person has the context music
+0	this person has the context slang
+0	this person has the context dialect
+0	this person has the context uk
+0	this person has the context this personing
+0	this person starts with consider menu
+0	this person starts with gather ingredients
+0	this person starts with gather ingredients before starting
+0	this person starts with gather what you'll need
+0	this person starts with get ingredients
+0	this person starts with having fire
+0	this person starts with heat up oven
+0	this person starts with look in refrigorator
+0	this person starts with wash hands
+0	eat starts with this person
+0	feed family starts with this person
+0	this person ends with clean up kitchen
+0	this person ends with clean up mess
+0	this person ends with eat
+0	this person ends with serve food
+0	this person ends with stir
+0	this person ends with wash up
+0	comfort friend requires this person
+0	this person requires buy this personbook
+0	this person requires buy food
+0	this person requires buy ingredients
+0	this person requires decide what want to this person
+0	this person requires find source of heat
+0	this person requires gather ingredients
+0	this person requires get out this personbook
+0	this person requires get out this personing utensils
+0	this person requires grab pan
+0	this person requires have food
+0	this person requires have ingredients
+0	this person requires have ingredients to this person
+0	this person requires have kitchen
+0	this person requires have oven
+0	this person requires have recipe book
+0	this person requires have source of heat
+0	this person requires make popcorn
+0	this person requires measure up ingredients
+0	this person requires mix ingrediants
+0	this person requires not spit in pot
+0	this person requires prepare food
+0	this person requires prepare raw food first
+0	this person requires read recipe
+0	this person requires turn on stove
+0	this person requires use kitchen
+0	this person requires use pan
+0	this person requires want to eat
+0	this person requires wash hands
+0	this person requires wear apron
+0	eat requires this person
+0	eat dinner requires this person
+0	eat hamburger requires this person
+0	eat lunch requires this person
+0	eat warm requires this person
+0	feed family requires this person
+0	have food requires this person
+0	have lunch requires this person
+1	this person has the property important in french culture
+1	this person has the property important in italian culture
+0	this person requires add salt
+-1	this person requires amaze friends
+0	this person requires burn food
+0	this person requires burning thumb
+-1	this person requires burning yourself
+0	this person requires this personing odors
+0	this person requires cut food
+0	this person requires eating what this person
+0	this person requires getting fed
+0	this person requires make hot food
+0	this person requires measure ingredients
+0	this person requires might boil water
+0	this person requires might burn food
+0	this person requires might prepare meal
+0	this person requires mix ingredients
+0	this person requires oven explodes
+0	this person requires over seasoning food
+0	this person requires read directions
+0	this person requires turn on oven or stove
+0	this person requires use spices
+0	this person requires wear hair net
+0	have food requires this person
+0	bake is a this person
+0	this person is a this person
+0	this person is a food because tastes better
+1	this person is a skilled worker
+0	this person is a concoct
+0	cookie is a this person
+0	cordon bleu is a this person
+0	fry this person is a this person
+0	nada is a this person
+0	preserver is a this person
+0	roaster is a this person
+0	seasoner is a this person
+0	bake is manner of this person
+0	blanch is manner of this person
+0	braise is manner of this person
+0	brown is manner of this person
+0	coddle is manner of this person
+0	concoct is manner of this person
+0	this person is manner of change
+2	this person is manner of change integrity
+0	this person is manner of create from raw material
+0	this person is manner of create from raw material
+0	deglaze is manner of this person
+-1	devil is manner of this person
+0	dress is manner of this person
+0	escallop is manner of this person
+0	flambe is manner of this person
+-1	fricassee is manner of this person
+0	fry is manner of this person
+0	grill is manner of this person
+0	lard is manner of this person
+0	microwave is manner of this person
+-1	overthis person is manner of this person
+0	poach is manner of this person
+0	prethis person is manner of this person
+0	preserve is manner of this person
+-1	pressure this person is manner of this person
+0	put on is manner of this person
+0	roast is manner of this person
+0	souse is manner of this person
+0	steam is manner of this person
+0	stew is manner of this person
+-1	whip up is manner of this person
+0	bring home fish is motivated by this person
+0	this person is motivated by create
+0	this person is motivated by eat
+0	this person is motivated by get away from waiting tables
+0	this person is motivated by hot dogs taste better hot
+0	this person is motivated by hot meal
+0	this person is motivated by hungry
+0	this person is motivated by make meal
+0	this person is motivated by meal
+0	this person is motivated by need food
+-1	this person is motivated by nungry
+0	this person is motivated by prepare meal
+0	follow recipe is motivated by this person
+-1	light fire is motivated by this person
+0	this person does not desire burn meal they're preparing
+0	this person does not desire food poisoning
+0	al dente is related to this person
+0	androphagia is related to this person
+0	artiste is related to this person
+0	babbling brook is related to this person
+0	bake is related to this person
+0	bean hole is related to this person
+0	beanhole is related to this person
+0	blacken is related to this person
+0	boil is related to this person
+0	boil is related to this person
+0	braise is related to this person
+0	brew is related to this person
+0	broil is related to this person
+0	broilable is related to this person
+0	burger flipper is related to this person
+0	burn is related to this person
+0	butter is related to this person
+0	canaree is related to this person
+0	captain is related to this person
+0	charbroil is related to this person
+0	charcoal is related to this person
+0	this person is related to this person
+0	this person is related to this person
+0	coalpot is related to this person
+0	cocinera is related to this person
+0	coctible is related to this person
+0	coddle is related to this person
+0	collar is related to this person
+0	this person is related to action
+0	this person is related to bake
+0	this person is related to bake saute
+0	this person is related to baking
+0	this person is related to baking frying
+0	this person is related to this person
+0	this person is related to eating
+0	this person is related to food
+0	this person is related to food preparation
+0	this person is related to frying
+0	this person is related to heat
+0	this person is related to heat food
+0	this person is related to job
+0	this person is related to kitchen
+0	this person is related to making
+0	this person is related to meal
+0	this person is related to occupation
+0	this person is related to person
+0	this person is related to preparation
+0	this person is related to prepare
+0	this person is related to prepare food
+0	this person is related to prepare meal
+0	this person is related to prepares
+0	this person is related to prepares food
+0	this person is related to preparing
+0	this person is related to preparing food
+0	this person is related to profession
+0	this person is related to saute
+0	this person is related to utensils
+0	this person is related to this person
+0	this person is related to this person
+0	this person is related to minnesota
+0	this person is related to nebraska
+0	this person is related to new zealand
+0	this person is related to pacific ocean
+0	this person is related to saint louis county
+0	this person is related to south australia
+0	this person is related to this person
+0	this person is related to chef cuisinier
+-1	this person is related to drug
+0	this person is related to head
+-1	this person is related to illegal
+0	this person is related to manor house
+0	this person is related to manufacture
+0	this person is related to meth
+0	this person is related to cuire
+0	this person is related to cuisiner
+0	this person is related to concoct
+0	this person is related to this person up
+0	this person is related to food
+0	this person is related to fuse
+0	this person is related to grenade
+0	this person is related to improvise
+0	this person is related to ingredients
+0	this person is related to jive
+0	this person is related to prepare
+0	this person is related to cuckoo
+0	this person is related to throw
+0	this person chill is related to this person
+0	this person up storm is related to this person
+0	cookable is related to this person
+0	cookbook is related to this person
+0	cooke is related to this person
+0	cookee is related to this person
+0	cooker is related to this person
+0	cookeress is related to this person
+0	cookess is related to this person
+0	cookest is related to this person
+0	cooketh is related to this person
+0	cookfire is related to this person
+0	cookhouse is related to this person
+0	cooking pot is related to this person
+0	cookless is related to this person
+0	cookmaid is related to this person
+0	cooks is related to this person
+0	cooks is related to this person
+0	cookshack is related to this person
+0	cookt is related to this person
+0	cookware is related to this person
+0	coral is related to this person
+0	corn on cob is related to this person
+0	cox is related to this person
+0	cuisinier is related to this person
+-1	culinarily challenged is related to this person
+0	culinary is related to this person
+0	curry is related to this person
+0	dark kitchen is related to this person
+0	deli is related to this person
+0	delicatessen is related to this person
+-1	devil is related to this person
+0	do is related to this person
+0	dolcett is related to this person
+0	domestic servant is related to this person
+0	eggah is related to this person
+0	entremetier is related to this person
+0	etna is related to this person
+0	fire is related to this person
+0	fry is related to this person
+0	fry this person is related to this person
+0	gallopin is related to this person
+0	grill is related to this person
+0	gynophagia is related to this person
+0	hairnet is related to this person
+0	hand this personed is related to this person
+0	hangi is related to this person
+-1	hard boil is related to this person
+0	haricot bean is related to this person
+0	hash slinger is related to this person
+0	heat is related to this person
+0	irori is related to this person
+0	jus is related to this person
+0	kitchen timer is related to this person
+0	kitchener is related to this person
+0	kitchenhand is related to this person
+0	koch is related to this person
+0	lemang is related to this person
+0	lyonnaise is related to this person
+0	medium rare is related to this person
+0	misthis person is related to this person
+0	mise en place is related to this person
+0	mug cake is related to this person
+0	multifunctional this personer is related to this person
+0	mumu is related to this person
+0	nonthis person is related to this person
+0	nuke is related to this person
+0	oil is related to this person
+0	oil is related to this person
+0	olive is related to this person
+0	outthis person is related to this person
+0	oven is related to this person
+0	overthis person is related to this person
+-1	overdo is related to this person
+-1	overdone is related to this person
+0	oxide is related to this person
+0	pan broil is related to this person
+0	parboil is related to this person
+0	parthis person is related to this person
+0	parfry is related to this person
+0	pastrythis person is related to this person
+0	plain this person is related to this person
+0	plantain is related to this person
+0	poach is related to this person
+-1	poachable is related to this person
+0	poissonier is related to this person
+0	polony is related to this person
+0	pot is related to this person
+0	pottager is related to this person
+0	prethis person is related to this person
+0	prepare is related to this person
+-1	pressure this personer is related to this person
+0	put on is related to this person
+0	recoct is related to this person
+0	rethis person is related to this person
+0	restaurant is related to this person
+0	roast is related to this person
+0	saucerer is related to this person
+0	saucier is related to this person
+0	scrambled egg is related to this person
+0	sear is related to this person
+0	servant is related to this person
+0	serving dish is related to this person
+0	shifter is related to this person
+0	simmer is related to this person
+0	skillet is related to this person
+0	slow this person is related to this person
+-1	smoke up is related to this person
+0	soup bone is related to this person
+0	sous chef is related to this person
+0	spitbraaied is related to this person
+0	steak is related to this person
+0	steam is related to this person
+0	steamer is related to this person
+0	steamer is related to this person
+0	stew is related to this person
+0	stewer is related to this person
+0	stove is related to this person
+0	superthis person is related to this person
+0	sweat is related to this person
+0	tandoori is related to this person
+0	tandoori is related to this person
+0	trencher man is related to this person
+0	truss is related to this person
+-1	tucker fucker is related to this person
+0	underthis person is related to this person
+0	underthis person is related to this person
+0	unhung is related to this person
+0	way to man's heart is through his stomach is related to this person
+0	wok is related to this person
+0	wok hei is related to this person
+0	this person is similar to this person
+0	this person is similar to this personess
+0	this person is similar to line this person
+0	this person is similar to prep this person
+0	this person is similar to sous chef
+0	saucier is similar to this person
+0	scullery maid is similar to this person
+-1	burn synonym this person
+0	this person synonym this person
+0	this person synonym cuoco
+0	this person synonym kok
+0	this person synonym coc
+0	this person synonym ø·ø¨ø§ø®
+0	this person synonym cocedor
+0	this person synonym cocineru
+0	this person synonym aåpaz
+0	this person synonym ðºññð°ñ
+0	this person synonym ðºññð°ñðºð°
+0	this person synonym ð¿ð°ð²ð°ñññð°
+0	this person synonym ð³ð¾ñð²ð°ñ
+0	this person synonym à¦°à¦¾à¦à¦§à§à¦¨à¦¿
+0	this person synonym à½ à½à¾±à½
+0	this person synonym cuiner
+0	this person synonym xef
+0	this person synonym ñññð³ð¹ð¸ð¹ñð¸ð³
+0	this person synonym kuchaå
+0	this person synonym kuchaåka
+0	this person synonym cogydd
+0	this person synonym cogyddes
+0	this person synonym kok
+0	this person synonym koch
+0	this person synonym kã¶chin
+0	this person synonym nuéala
+0	this person synonym î¼î±î³îµî¹ïî±ï
+0	this person synonym î¼î±î³îµî¹ïî¹ïïî±
+0	this person synonym this person
+0	this person synonym kuiristo
+0	this person synonym cocinera
+0	this person synonym cocinero
+0	this person synonym kokk
+0	this person synonym sukaldari
+0	this person synonym ø§ø´ù¾ø²
+0	this person synonym ù¾ø²ùø¯ù
+0	this person synonym keittã¤jã¤
+0	this person synonym kokki
+0	this person synonym tagaluto
+0	this person synonym kokkur
+0	this person synonym this person
+0	this person synonym cuisinier
+0	this person synonym kook
+0	this person synonym cã³caire
+0	this person synonym bruich
+0	this person synonym cociã±eira
+0	this person synonym cociã±eiro
+0	this person synonym î¼î±î³îµî¹ïî¿ï
+0	this person synonym î¿ïî¿ïî¿î¹î¿ï
+0	this person synonym ×××
+0	this person synonym ×××××ª
+0	this person synonym à¤°à¤¸à¥à¤à¤¯à¤¾
+0	this person synonym kuchar
+0	this person synonym kucharka
+0	this person synonym szakã¡cs
+0	this person synonym õ­õ¸õ°õ¡öõ¡ö
+0	this person synonym koquisto
+0	this person synonym kokkur
+0	this person synonym cuoca
+0	this person synonym cuoco
+0	this person synonym ã³ãã¯
+0	this person synonym ã·ã§ã
+0	this person synonym æçäºº
+0	this person synonym èª¿çå¸«
+0	this person synonym áááá áá£áá
+0	this person synonym ð°ñð¿ð°ð·
+0	this person synonym igasoq
+0	this person synonym á¢ááááá¶áááá
+0	this person synonym á¢ááááááá¾áá¶á
+0	this person synonym ë£ë¦¬ì¬
+0	this person synonym ìë¦¬ì¬
+0	this person synonym aåpãªj
+0	this person synonym úûø´øªú©ùâø±
+0	this person synonym ð°ñð¿ð¾ð·
+0	this person synonym ð¿ð¾ð²ð°ñ
+0	this person synonym coctor
+0	this person synonym cocturarius
+0	this person synonym cocus
+0	this person synonym coqua
+0	this person synonym coquus
+0	this person synonym kach
+0	this person synonym coxiner
+0	this person synonym coxinera
+0	this person synonym cåg
+0	this person synonym cåga
+0	this person synonym àºàº»àºàºàº»àº§àºàº´àº
+0	this person synonym àºà»à»àºàº»àº§
+0	this person synonym kokas
+0	this person synonym virejas
+0	this person synonym pavärs
+0	this person synonym ð³ð¾ñð²ð°ñ
+0	this person synonym ð³ð¾ñð²ð°ñðºð°
+0	this person synonym ñð¾ð³ð¾ð¾ñ
+0	this person synonym koki
+0	this person synonym tukang masak
+0	this person synonym kok
+0	this person synonym koka
+0	this person synonym áááºááá¬
+0	this person synonym kock
+0	this person synonym kã¶ã¶ksch
+0	this person synonym kã¶ã¶ksche
+0	this person synonym kok
+0	this person synonym kokkin
+0	this person synonym kokk
+0	this person synonym kokke
+0	this person synonym couque
+0	this person synonym tchuã®sinnyi
+0	this person synonym chê¼iyã¡ã¡n ã­ã­åê¼ã­nã­
+0	this person synonym så«do
+0	this person synonym à¤¸à¥à¤¦à¥
+0	this person synonym kucharka
+0	this person synonym kucharz
+0	this person synonym cozinheira
+0	this person synonym cozinheiro
+0	this person synonym wayk uq
+0	this person synonym cuschinier
+0	this person synonym bucätar
+0	this person synonym bucätäreasä
+0	this person synonym ðºð¾ðº
+0	this person synonym ðºññð°ñðºð°
+0	this person synonym ð¿ð¾ð²ð°ñ
+0	this person synonym ð¿ð¾ð²ð°ñð¸ñð°
+0	this person synonym ññññð¿ññð°
+0	this person synonym goahkka
+0	this person synonym koahkka
+0	this person synonym kuhar
+0	this person synonym kuharica
+0	this person synonym kuvar
+0	this person synonym kuvarica
+0	this person synonym kuchã¡r
+0	this person synonym kuchã¡rka
+0	this person synonym kuhar
+0	this person synonym kuharica
+0	this person synonym kuzhinier
+0	this person synonym kock
+0	this person synonym mpishi
+0	this person synonym wapishi
+0	this person synonym à®à¯à®µà®¿à®¯à®°à¯
+0	this person synonym à°µà°à°à°®à°¨à°¿à°·à°¿
+0	this person synonym à°µà°à°à°µà°¾à°¡à±
+0	this person synonym ð¾ñð¿ð°ð·
+0	this person synonym ñð°ð±ð±ð¾ñ
+0	this person synonym à¸à¸¸à¹à¸
+0	this person synonym à¸à¹à¸­à¸à¸£à¸±à¸§
+0	this person synonym à¹à¸¡à¹à¸à¸£à¸±à¸§
+0	this person synonym aåpez
+0	this person synonym aåã§ä±
+0	this person synonym ð¿ðµñðµññðµ
+0	this person synonym ð¿ð°ññð°ð½ññ
+0	this person synonym ùø§ø´ù¾ûø²
+0	this person synonym ðºññð°ñ
+0	this person synonym ðºññð°ñðºð°
+0	this person synonym oshpaz
+0	this person synonym cogo
+0	this person synonym äáº§u báº¿p
+0	this person synonym hikvisinan
+0	this person synonym jikvisinan
+0	this person synonym kvisinan
+0	this person synonym å¨å¸
+0	this person synonym å»å¸«
+0	this person synonym captain james this person
+0	this person synonym this person
+0	this person synonym faire la cuisine
+0	this person synonym seoã¾an
+0	this person synonym ø·ø¨ø®
+0	this person synonym ø·ùø¨
+0	this person synonym ð²ð°ññññ
+0	this person synonym ð³ð°ñð°ð²ð°ññ
+0	this person synonym ðºññð°ññññ
+0	this person synonym ð³ð¾ñð²ñ
+0	this person synonym à½ à½£à½ à½à½à½¼ à½
+0	this person synonym à½à½à½¼à½¦
+0	this person synonym à½ à½à½¼à½ à½
+0	this person synonym keginaã±
+0	this person synonym cuinar
+0	this person synonym hoponi
+0	this person synonym vaåit
+0	this person synonym coginio
+0	this person synonym kokkerere
+0	this person synonym lave mad
+0	this person synonym garen
+0	this person synonym kochen
+0	this person synonym éa
+0	this person synonym î¼î±î³îµî¹ïîµïï
+0	this person synonym ïî±ïî±ïîºîµïî±î¶ï
+0	this person synonym bake
+0	this person synonym this person off
+0	this person synonym kuiri
+0	this person synonym cocinar
+0	this person synonym keetma
+0	this person synonym ù¾ø®øªù
+0	this person synonym keittã¤ã¤
+0	this person synonym kokata
+0	this person synonym laittaa ruokaa
+0	this person synonym tehdã¤ ruokaa
+0	this person synonym magluto
+0	this person synonym matgera
+0	this person synonym cuisiner
+0	this person synonym kã¶ã¶ge
+0	this person synonym cuei
+0	this person synonym cusinã¢
+0	this person synonym bruich
+0	this person synonym cociã±ar
+0	this person synonym ïîµïïï
+0	this person synonym ×××©×
+0	this person synonym à¤ªà¤à¤¾à¤¨à¤¾
+0	this person synonym fåz
+0	this person synonym õ¥öõ¥õ¬
+0	this person synonym koquar
+0	this person synonym elda
+0	this person synonym cuocere
+0	this person synonym æç
+0	this person synonym á¡áá­áááá¡ ááááááááá
+0	this person synonym igavoq
+0	this person synonym ááá¢á·á
+0	this person synonym ááááá¶á
+0	this person synonym áá»á
+0	this person synonym ááá
+0	this person synonym ìë¦¬íë¤
+0	this person synonym pijandin
+0	this person synonym úûø´øª ùûùø§ù
+0	this person synonym kegina
+0	this person synonym coquo
+0	this person synonym brutschen
+0	this person synonym kachen
+0	this person synonym àºàº»àº§àºàº´àº
+0	this person synonym virti
+0	this person synonym cept
+0	this person synonym gatavot
+0	this person synonym värä«t
+0	this person synonym ð³ð¾ñð²ð¸
+0	this person synonym à´ªà´¾à´à´ à´àµà´¯àµà´¯àµà´¨àµà´¨àµ
+0	this person synonym ñð¾ð¾ð» ñð¸ð¹ñ
+0	this person synonym áá»ááº
+0	this person synonym áá»ááºáá¼á¯ááº
+0	this person synonym kaken
+0	this person synonym koken
+0	this person synonym koken
+0	this person synonym lage mat
+0	this person synonym coutchi
+0	this person synonym yishbã©ã©zh
+0	this person synonym gotowaä
+0	this person synonym kucharzyä
+0	this person synonym warzyä
+0	this person synonym ù¾ø®ùù
+0	this person synonym cozinhar
+0	this person synonym arui
+0	this person synonym chayachiy
+0	this person synonym wayk uy
+0	this person synonym yanui
+0	this person synonym yanuy
+0	this person synonym cuschinar
+0	this person synonym gäti
+0	this person synonym ð²ð°ñð¸ññ
+0	this person synonym ð³ð¾ñð¾ð²ð¸ññ
+0	this person synonym ð¿ñð¸ð³ð¾ñð¾ð²ð¸ññ
+0	this person synonym ñð²ð°ñð¸ññ
+0	this person synonym ñð¾ññññð¿ð°ññ
+0	this person synonym ññññð¿ð°ññ
+0	this person synonym à¤ªà¤à¤¤à¤¿
+0	this person synonym cã²ciri
+0	this person synonym kuhati
+0	this person synonym kuvati
+0	this person synonym skuhati
+0	this person synonym skuvati
+0	this person synonym variå¥
+0	this person synonym kuhati
+0	this person synonym skuhati
+0	this person synonym gatuaj
+0	this person synonym laga mat
+0	this person synonym kupika
+0	this person synonym à®à¯à®¯à¯
+0	this person synonym à°µà°à°¡à±
+0	this person synonym ð¿ñññð°ð½
+0	this person synonym à¸à¹à¸²à¸­à¸²à¸«à¸²à¸£
+0	this person synonym à¸à¸£à¸°à¸à¸­à¸à¸­à¸²à¸«à¸²à¸£
+0	this person synonym à¸à¸£à¸¸à¸à¸­à¸²à¸«à¸²à¸£
+0	this person synonym à¸«à¸¸à¸à¸«à¸²à¸­à¸²à¸«à¸²à¸£
+0	this person synonym piåirmek
+0	this person synonym pã¤k
+0	this person synonym ð±ðµð»ðµñðºñññ
+0	this person synonym ð´ò¯ð»ðµñ
+0	this person synonym ð¿ð°ññð°ð°ñ
+0	this person synonym ð²ð°ñð¸ñð¸
+0	this person synonym ð³ð¾ññð²ð°ñð¸
+0	this person synonym ðºññð¾ð²ð°ñð¸ñð¸
+0	this person synonym ù¾ú©ø§ùø§
+0	this person synonym cã²xer
+0	this person synonym cã³sar
+0	this person synonym cã³xar
+0	this person synonym náº¥u
+0	this person synonym náº¥u chã­n
+0	this person synonym náº¥u än
+0	this person synonym coujhner
+0	this person synonym cure
+0	this person synonym fã©
+0	this person synonym lu to
+0	this person synonym pã¤k
+0	this person synonym upiha
+0	this person synonym åè
+0	this person synonym ç¹èª¿
+0	this person synonym ç¹è°
+0	this person synonym ç¹é£ª
+0	this person synonym ç¹é¥ª
+0	this person synonym fudge
+0	do synonym this person
+-1	falsify synonym this person
+0	fix synonym this person
+-1	insane synonym this person
+0	make synonym this person
+0	prepare synonym this person
+0	ready synonym this person
+0	baking oven is used for this person
+0	barbecue is used for this person
+0	dishes is used for this person
+0	fire is used for this person
+0	frying pan is used for this person
+0	grill is used for this person
+0	heat source is used for this person
+0	kitchen is used for this person
+0	kitchenette is used for this person
+0	knives is used for this person
+0	machine is used for this person
+0	skillet is used for this person
+0	stove is used for this person

@@ -1,0 +1,272 @@
+-1	this person antonym criminal
+0	this person antonym policewoman
+0	policewoman antonym this person
+0	this person is located at donut shop
+0	this person is located at doughnut shop
+0	this person is located at freeway
+0	this person is located at front door
+0	this person is located at police station
+0	this person is located at roadblock
+0	this person is located at street
+-1	this person is capable of arrest criminals
+-1	this person is capable of believe guilty
+-1	this person is capable of book robber
+-1	this person is capable of carrying gun
+0	this person is capable of clear streets of onlookers
+-1	this person is capable of control attack dog
+-1	this person is capable of corner mugger
+0	this person is capable of cover partner
+0	this person is capable of demand pay money
+0	this person is capable of direct traffic
+-1	this person is capable of doubt suspect's story
+1	this person is capable of enjoy power
+-1	this person is capable of eye criminal
+0	this person is capable of find victim
+1	this person is capable of fine citizen
+-1	this person is capable of fine offender of law
+-1	this person is capable of fine person ticket
+-1	this person is capable of force confession
+0	this person is capable of hand over warrant
+-1	this person is capable of hit litterbug
+-1	this person is capable of lose criminal
+-1	this person is capable of notice crime
+0	this person is capable of notice doughnut shop
+0	this person is capable of notice jaywalker
+0	this person is capable of notice unusual activity
+-1	this person is capable of offer jailtime to criminal
+-1	this person is capable of press suspect for answer
+0	this person is capable of ready gun
+0	this person is capable of say stop
+-1	this person is capable of shout must stop
+-1	this person is capable of slow traffic
+0	this person is capable of stand on face
+0	this person is capable of stop car
+-1	this person is capable of stop crime
+0	this person is capable of stop traffic
+0	this person is capable of tail crook
+0	this person is capable of tail suspect
+-1	this person is capable of talk to criminal
+0	this person is capable of wave on
+0	this person is derived from police
+0	this person is derived from police
+0	policemanlike is derived from this person
+0	policemanly is derived from this person
+0	sleeping this person is derived from this person
+-1	this person desires prevent crime
+0	police man is a form of this person
+0	policemen is a form of this person
+0	policemen is a form of this person
+0	policewoman is a form of this person
+0	this person has the context chemistry
+0	this person has the context entomology
+-1	kill people requires this person
+-1	send criminal to prison requires this person
+0	bobby is a this person
+-1	bull is a this person
+0	captain is a this person
+0	constable is a this person
+0	detective is a this person
+0	gendarme is a this person
+0	inspector is a this person
+0	motorcycle cop is a this person
+0	mountie is a this person
+0	police matron is a this person
+-1	this person is a bully
+0	this person is a man
+1	this person is a member of police force
+1	this person is a police officer
+1	this person is a police officer
+0	this person is a lawman
+0	shoofly is a this person
+0	traffic cop is a this person
+0	trooper is a this person
+0	ball is related to this person
+0	beatsman is related to this person
+0	billy club is related to this person
+0	bluecoat is related to this person
+-1	body snatcher is related to this person
+0	boy in blue is related to this person
+0	bull is related to this person
+0	bull mobile is related to this person
+0	captain is related to this person
+0	centenier is related to this person
+-1	charpering omi is related to this person
+0	chief is related to this person
+0	chowki is related to this person
+0	cozzer is related to this person
+0	crusher is related to this person
+0	detective is related to this person
+0	doughnut is related to this person
+0	duty is related to this person
+0	flatfoot is related to this person
+0	flatty is related to this person
+0	flic is related to this person
+0	garda is related to this person
+0	gendarme is related to this person
+0	guard is related to this person
+0	kavass is related to this person
+0	mee maw is related to this person
+0	motor cop is related to this person
+0	nuthook is related to this person
+0	officer is related to this person
+0	pc plod is related to this person
+0	peon is related to this person
+0	police box is related to this person
+0	police officer is related to this person
+0	this person is related to authority
+0	this person is related to constable
+0	this person is related to cop
+0	this person is related to cop formal
+0	this person is related to enforcement
+0	this person is related to formal
+0	this person is related to law
+0	this person is related to law enforcement
+0	this person is related to male
+0	this person is related to male officer
+0	this person is related to male police
+0	this person is related to man
+0	this person is related to officer
+1	this person is related to peace
+1	this person is related to peace officer
+0	this person is related to police
+0	this person is related to uniform
+0	this person is related to chemistry
+0	this person is related to genus
+0	this person is related to glass
+0	this person is related to gravimetric
+0	this person is related to laboratory
+0	this person is related to male
+0	this person is related to police
+0	this person is related to police force
+0	this person is related to policewoman
+0	this person is related to rod
+0	this person is related to rubber
+0	this person is related to skipper
+0	this person is related to agent
+0	this person is related to gendarme
+0	this person is related to policier
+0	policemanlike is related to this person
+0	policemanly is related to this person
+0	policemen is related to this person
+0	policewoman is related to this person
+0	pollis is related to this person
+0	sbirro is related to this person
+0	scuffer is related to this person
+0	slop is related to this person
+0	smokey bear is related to this person
+0	trooper is related to this person
+0	unpolicemanly is related to this person
+0	walloper is related to this person
+0	whistle is related to this person
+0	zaptieh is related to this person
+0	officer synonym this person
+0	pig synonym this person
+0	police officer synonym this person
+0	this person synonym polisieman
+0	this person synonym ø´ø±ø·ù
+0	this person synonym ð¼ñð»ññññð½ñ
+0	this person synonym ð¿ð°ð»ñññð¹ñðºñ
+0	this person synonym ð¿ð¾ð»ð¸ñð°ð¹
+0	this person synonym ð¼ð¸ð»ñð¾
+0	this person synonym áááá±áá©
+0	this person synonym policista
+0	this person synonym heddwas
+0	this person synonym plismon
+-1	this person synonym politimand
+0	this person synonym polizeibeamter
+0	this person synonym polizeimann
+0	this person synonym polizist
+0	this person synonym policaj
+-1	this person synonym policist
+0	this person synonym policistka
+0	this person synonym kpovitéåutsu
+0	this person synonym î±ïïïî½î¿î¼î¹îºî¿ï
+0	this person synonym î±ïïïî½î¿î¼î¿ï
+0	this person synonym î±ïïïïïî»î±îºî±ï
+0	this person synonym constable
+0	this person synonym cop
+1	this person synonym police officer
+0	this person synonym rubber policeman
+0	this person synonym policano
+0	this person synonym policisto
+0	this person synonym agente
+0	this person synonym agente de policã­a
+0	this person synonym policã­a
+0	this person synonym ù¾ø§ø³ø¨ø§ù
+0	this person synonym poliisi
+0	this person synonym pulis
+0	this person synonym gendarme
+0	this person synonym policier
+0	this person synonym maor sã¬th
+0	this person synonym poileas
+0	this person synonym ×©×××¨
+0	this person synonym à¤ªà¥à¤²à¤¿à¤¸à¤µà¤¾à¤²à¤¾
+0	this person synonym rendår
+0	this person synonym rendårnå
+0	this person synonym õ¸õ½õ¿õ«õ¯õ¡õ¶
+0	this person synonym policisto
+0	this person synonym lã¶gga
+0	this person synonym lã¶greglumaã°ur
+0	this person synonym agente
+0	this person synonym carabiniere
+0	this person synonym gendarme
+0	this person synonym poliziotto
+0	this person synonym ãå·¡ã
+0	this person synonym è­¦å®
+0	this person synonym è­¦å¯å®
+0	this person synonym áááááªáááá
+0	this person synonym ááááá½á
+0	this person synonym áááá¶áááá¶áááá¼áá·á
+0	this person synonym è­¦å¯å®
+0	this person synonym ê²½ì°°ê´
+0	this person synonym gwithyas kres
+0	this person synonym kreswas
+0	this person synonym denuntiator
+0	this person synonym àºà»àº²àº«àº¼àº§àº
+0	this person synonym ð¼ð¸ð»ð¸ñð°ðµñ
+0	this person synonym ð¿ð¾ð»ð¸ñð°ðµñ
+0	this person synonym pulizija
+0	this person synonym pulizjott
+0	this person synonym pulizjotta
+0	this person synonym è­¦å®
+-1	this person synonym politieagent
+0	this person synonym politieagente
+0	this person synonym politimann
+0	this person synonym chent'nyi
+0	this person synonym silã¡o
+0	this person synonym policjant
+0	this person synonym policial
+-1	this person synonym polièist
+0	this person synonym ð¿ð¾ð»ð¸ñð¼ðµð½
+0	this person synonym ð¿ð¾ð»ð¸ñðµð¹ñðºð¸ð¹
+0	this person synonym milicioner
+0	this person synonym milicionerka
+0	this person synonym policajac
+0	this person synonym policajka
+0	this person synonym policajt
+0	this person synonym miliänica
+0	this person synonym miliänik
+-1	this person synonym policist
+0	this person synonym policistka
+0	this person synonym lepolesa
+0	this person synonym polis
+0	this person synonym polisman
+0	this person synonym à¸à¹à¸²à¸£à¸§à¸
+0	this person synonym polis
+0	this person synonym pulã­sena
+0	this person synonym ð¼ñð»ñññð¾ð½ðµñ
+0	this person synonym ð¿ð¾ð»ññðµð¹ññðºð¸ð¹
+0	this person synonym ð¿ð¾ð»ññññð½ñ
+0	this person synonym ù¾ùùûø³ ùø§ùø§
+0	this person synonym cáº£nh sã¡t
+0	this person synonym è­¦å¯
+0	this person synonym hipoldan
+0	this person synonym poldan
+0	this person synonym ñð°ð³ð´ð°ñ
+0	this person synonym ×¤××××¦××× ×
+0	this person synonym ×¤××××¦××¡×
+0	this person synonym å·®ä½¬
+0	this person synonym è­¦å
+0	this person synonym è­¦å¡
+0	this person synonym è­¦å®
+0	this person synonym è­¦å¯

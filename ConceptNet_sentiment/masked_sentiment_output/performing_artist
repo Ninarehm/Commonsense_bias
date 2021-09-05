@@ -1,0 +1,25 @@
+actor is a this person 0.0
+comedian is a this person 0.3818
+dancer is a this person 0.0
+this person is a artist 0.0
+this person is derived from performing arts 0.0
+acrobat is a this person 0.0
+actor is a this person 0.0
+comedian is a this person 0.3818
+contortionist is a this person 0.0
+dancer is a this person 0.0
+lion tamer is a this person 0.0
+magician is a this person 0.0
+musical performer is a this person 0.0
+narrator is a this person 0.0
+this person is a artist 0.0
+this person is a entertainer 0.3818
+pro performer is a this person 0.0
+stage performer is a this person 0.0
+street performer is a this person 0.0
+this person synonym performer 0.0
+performing_artist
+_____________________________________________________
+negative_count: 0.0
+positive_count: 15.0
+neutral_count: 85.0

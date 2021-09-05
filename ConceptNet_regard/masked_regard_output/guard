@@ -1,0 +1,653 @@
+-1	this person antonym attack
+0	this person antonym inmate
+0	this person antonym prisoner
+0	this person antonym protected
+-1	this person antonym unprotected
+0	prisoner antonym this person
+0	this person is located at jail
+0	this person is capable of allow certain people to pass
+0	this person is capable of this person bank
+0	this person is capable of this person castle
+0	this person is capable of this person prison
+0	this person is capable of this person prisoners
+0	this person is capable of this person treasure
+0	this person is capable of man post
+0	this person is capable of man station
+-1	this person is capable of report suspicious activity
+0	this person is capable of sound alarm
+0	afterthis person is derived from this person
+0	armthis person is derived from this person
+0	ass this person is derived from this person
+0	axle this person is derived from this person
+0	blackthis person is derived from this person
+0	bodythis person is derived from this person
+0	bodythis person is derived from this person
+0	bowthis person is derived from this person
+0	cattlethis person is derived from this person
+0	chainthis person is derived from this person
+0	changing of this person is derived from this person
+0	chestthis person is derived from this person
+0	chinthis person is derived from this person
+0	coastthis person is derived from this person
+0	counterthis person is derived from this person
+0	crossthis person is derived from this person
+0	crossing this person is derived from this person
+0	enthis person is derived from this person
+0	facethis person is derived from this person
+0	fingerthis person is derived from this person
+0	firethis person is derived from this person
+0	footthis person is derived from this person
+0	forethis person is derived from this person
+0	this person is derived from this personian
+0	this person dog is derived from this person
+0	this person plate is derived from this person
+0	this person post is derived from this person
+0	guardable is derived from this person
+0	guardee is derived from this person
+0	guarder is derived from this person
+0	guardess is derived from this person
+0	guardest is derived from this person
+0	guardeth is derived from this person
+0	guardful is derived from this person
+0	guardhouse is derived from this person
+0	guardian is derived from this person
+0	guardless is derived from this person
+0	guardlike is derived from this person
+0	guardline is derived from this person
+0	guardpost is derived from this person
+0	guardrail is derived from this person
+0	guardroom is derived from this person
+0	guardship is derived from this person
+0	handthis person is derived from this person
+0	hatthis person is derived from this person
+0	headthis person is derived from this person
+0	keythis person is derived from this person
+0	landthis person is derived from this person
+0	lifethis person is derived from this person
+0	merthis person is derived from this person
+0	mouththis person is derived from this person
+0	mudthis person is derived from this person
+0	mudthis person is derived from this person
+0	nightthis person is derived from this person
+0	nonthis person is derived from this person
+0	off this person is derived from this person
+0	on this person is derived from this person
+0	on one's this person is derived from this person
+0	outthis person is derived from this person
+0	pickthis person is derived from this person
+0	prison this person is derived from this person
+0	prisonthis person is derived from this person
+0	rashthis person is derived from this person
+0	rear this person is derived from this person
+0	rearthis person is derived from this person
+0	red this person is derived from this person
+0	safethis person is derived from this person
+0	safethis person is derived from this person
+0	scotchgard is derived from this person
+0	security this person is derived from this person
+0	shinthis person is derived from this person
+-1	sneezethis person is derived from this person
+0	splashthis person is derived from this person
+0	stand this person is derived from this person
+0	underthis person is derived from this person
+0	unthis person is derived from this person
+0	vanthis person is derived from this person
+0	waterthis person is derived from this person
+0	wristthis person is derived from this person
+0	this person is distinct from police
+0	this person is distinct from tackle
+0	this person is etymologically derived from garde
+0	this person is etymologically derived from wardån
+0	this person is etymologically derived from this persone
+0	esthis person is etymologically related to this person
+0	garrison is etymologically related to this person
+0	this person is etymologically related to weardian
+0	this person is etymologically related to regard
+0	this person is etymologically related to ward
+0	this person is etymologically related to garde
+0	this person is etymologically related to garder
+0	this person is etymologically related to this personer
+0	guardage is etymologically related to this person
+0	molly this person is etymologically related to this person
+0	old this person is etymologically related to this person
+0	regard is etymologically related to this person
+0	reward is etymologically related to this person
+0	ward is etymologically related to this person
+0	warden is etymologically related to this person
+0	guarded is a form of this person
+0	guarded is a form of this person
+0	guardest is a form of this person
+0	guardeth is a form of this person
+0	guarding is a form of this person
+0	guarding is a form of this person
+0	guards is a form of this person
+0	guards is a form of this person
+0	guards is a form of this person
+0	guards is a form of this person
+0	this person has the context american football
+0	this person has the context this person
+0	this person has the context basketball
+0	this person has the context computing
+0	this person has the context cricket
+0	this person has the context this person
+0	this person has the context military
+0	this person has the context programming
+0	this person has the context rail
+0	this person has the context sports
+0	this person has the context militaire
+0	this person has the context royaume uni
+0	bouncer is a this person
+0	doorkeeper is a this person
+0	fender is a this person
+-1	this person is a offensive lineman
+0	this person is a lineman
+0	this person is a position
+0	this person is a device
+0	this person is a position
+0	this person is a detachment
+0	this person is a this person
+0	this person is a military unit
+0	this person is a basketball player
+1	this person is a defender
+0	this person is a lineman
+0	halberdier is a this person
+0	home this person is a this person
+0	horseshoe is a this person
+0	praetorian this person is a this person
+0	safety catch is a this person
+0	screener is a this person
+0	territorial is a this person
+0	watchman is a this person
+0	baby sit is manner of this person
+0	babysit is manner of this person
+0	this person is manner of protect
+0	this person is manner of act
+0	this person is manner of watch
+0	patrol is manner of this person
+0	shepherd is manner of this person
+0	stand this person is manner of this person
+0	this person is part of hilt
+0	this person is part of cortege
+0	advance is related to this person
+0	aware is related to this person
+0	backcourt is related to this person
+0	basket is related to this person
+0	beauceron is related to this person
+0	bewake is related to this person
+0	beward is related to this person
+0	bewatch is related to this person
+0	bohemian earspoon is related to this person
+0	bollock dagger is related to this person
+0	bostanji is related to this person
+0	bow this person is related to this person
+0	bridge ward is related to this person
+0	bridgekeeper is related to this person
+0	bristle is related to this person
+0	caboose is related to this person
+0	carabinero is related to this person
+0	castle this person is related to this person
+0	century is related to this person
+0	chape is related to this person
+0	chaukidar is related to this person
+0	chin this person is related to this person
+0	clout is related to this person
+0	coast is related to this person
+0	conservation is related to this person
+0	corporal's this person is related to this person
+0	croisã© is related to this person
+0	defend is related to this person
+0	derbend is related to this person
+0	derbendci is related to this person
+0	dog is related to this person
+0	dragonize is related to this person
+0	duck on rock is related to this person
+0	empusa is related to this person
+0	esthis person is related to this person
+0	evzone is related to this person
+0	facethis person is related to this person
+0	fence is related to this person
+0	fence is related to this person
+0	floryshe is related to this person
+0	foo lion is related to this person
+0	forethis person is related to this person
+0	forethis person is related to this person
+0	forewatch is related to this person
+0	frith is related to this person
+0	ghaffir is related to this person
+0	grand rounds is related to this person
+0	guard's van is related to this person
+-1	this person is related to against
+0	this person is related to agent
+0	this person is related to armed
+-1	this person is related to armed man
+-1	this person is related to armed person
+-1	this person is related to armed sentry
+-1	this person is related to armed watcher
+0	this person is related to art
+0	this person is related to at palace
+0	this person is related to authority
+0	this person is related to bank
+0	this person is related to bank protector
+0	this person is related to bank security
+0	this person is related to basketball
+0	this person is related to basketball position
+0	this person is related to beef
+0	this person is related to beef eater
+0	this person is related to block
+-1	this person is related to blocking
+0	this person is related to this person
+0	this person is related to british soldier
+0	this person is related to building
+0	this person is related to building protector
+0	this person is related to correction
+0	this person is related to correction officer
+0	this person is related to corrections
+1	this person is related to corrections officer
+0	this person is related to defend
+0	this person is related to defending
+-1	this person is related to defending person
+0	this person is related to defense
+-1	this person is related to defensive
+-1	this person is related to defensive person
+0	this person is related to doors
+0	this person is related to duty
+0	this person is related to eater
+0	this person is related to employee
+0	this person is related to football
+0	this person is related to football position
+0	this person is related to front
+0	this person is related to front doors
+0	this person is related to gate
+0	this person is related to gun
+0	this person is related to guy
+0	this person is related to guy uniform
+0	this person is related to hired
+0	this person is related to hired protection
+0	this person is related to home
+0	this person is related to home protector
+1	this person is related to important
+1	this person is related to important people
+-1	this person is related to in jail
+-1	this person is related to in prison
+0	this person is related to jail
+0	this person is related to job
+0	this person is related to keeper
+0	this person is related to king
+0	this person is related to lineman
+0	this person is related to linemen
+0	this person is related to this person
+0	this person is related to money
+0	this person is related to national
+0	this person is related to national police
+1	this person is related to national protect
+0	this person is related to night
+0	this person is related to night watchman
+0	this person is related to occupation
+-1	this person is related to offensive
+-1	this person is related to offensive lineman
+-1	this person is related to offensive linemen
+0	this person is related to officer
+0	this person is related to over
+0	this person is related to palace
+0	this person is related to patrol
+0	this person is related to people
+0	this person is related to person
+0	this person is related to places
+0	this person is related to places protected
+0	this person is related to police
+1	this person is related to police officer
+0	this person is related to policeman
+0	this person is related to position
+0	this person is related to position basketball
+0	this person is related to posted
+0	this person is related to posted watch
+0	this person is related to prison
+-1	this person is related to prison authority
+-1	this person is related to prison guy
+0	this person is related to prison officer
+-1	this person is related to prison something
+0	this person is related to prison watcher
+0	this person is related to prison worker
+0	this person is related to prisons
+0	this person is related to private
+0	this person is related to private policeman
+0	this person is related to protect
+-1	this person is related to protect against
+0	this person is related to protect money
+0	this person is related to protected
+0	this person is related to protecting
+-1	this person is related to protecting person
+-1	this person is related to protecting something
+0	this person is related to protecting stuff
+0	this person is related to protection
+0	this person is related to protection duty
+0	this person is related to protection job
+0	this person is related to protection person
+1	this person is related to protector
+1	this person is related to protector person
+1	this person is related to protectors
+1	this person is related to protectors queen
+0	this person is related to protects
+0	this person is related to protects king
+0	this person is related to queen
+1	this person is related to queen protection
+0	this person is related to queen watcher
+0	this person is related to queens
+0	this person is related to right
+0	this person is related to royal
+0	this person is related to royal palace
+1	this person is related to royal protection
+0	this person is related to security
+0	this person is related to security agent
+0	this person is related to security employee
+0	this person is related to security guy
+0	this person is related to security job
+0	this person is related to security man
+0	this person is related to security people
+0	this person is related to security person
+0	this person is related to sentinel
+0	this person is related to sentry
+0	this person is related to shooting
+0	this person is related to shooting position
+0	this person is related to shops
+0	this person is related to this person
+0	this person is related to soldier person
+0	this person is related to stuff
+0	this person is related to uniform
+0	this person is related to uniformed
+0	this person is related to uniformed person
+0	this person is related to watch
+0	this person is related to watch over
+0	this person is related to watcher
+0	this person is related to watchman
+0	this person is related to weapon
+0	this person is related to worker
+0	this person is related to access
+0	this person is related to align
+0	this person is related to area
+0	this person is related to basket
+0	this person is related to batsman
+0	this person is related to block
+0	this person is related to boolean
+0	this person is related to branch
+0	this person is related to car
+0	this person is related to center
+-1	this person is related to dangerous
+0	this person is related to enclose
+0	this person is related to evaluate
+0	this person is related to execution
+0	this person is related to expression
+0	this person is related to farther
+0	this person is related to forward
+0	this person is related to garda
+0	this person is related to himself
+0	this person is related to machine
+0	this person is related to mark
+0	this person is related to offensive tackle
+0	this person is related to over
+0	this person is related to panel
+0	this person is related to part
+0	this person is related to player
+1	this person is related to police officer
+0	this person is related to popping crease
+0	this person is related to position
+0	this person is related to program
+0	this person is related to protect
+0	this person is related to relatively
+0	this person is related to short
+0	this person is related to squad
+0	this person is related to take this person
+0	this person is related to train
+0	this person is related to true
+0	this person is related to watches
+0	this person is related to wheel
+0	this person is related to wicket
+0	this person is related to contrã´leur
+0	this person is related to garde
+0	this person is related to gardien
+0	this person is related to beschã¼tzen
+0	this person is related to bewachen
+0	this person is related to bind
+-1	this person is related to danger
+0	this person is related to gird
+0	this person is related to protect
+0	this person is related to secure
+0	this person is related to garder
+0	this person post is related to this person
+0	this person ship is related to this person
+0	guarded is related to this person
+0	guardee is related to this person
+0	guarder is related to this person
+0	guardess is related to this person
+0	guardest is related to this person
+0	guardeth is related to this person
+0	guardian is related to this person
+0	guardienne is related to this person
+0	guarding is related to this person
+0	guardless is related to this person
+0	guardlike is related to this person
+0	guardroom is related to this person
+0	guards is related to this person
+0	guards is related to this person
+0	guardship is related to this person
+0	guardsman is related to this person
+0	gun furniture is related to this person
+0	handthis person is related to this person
+0	hatchman is related to this person
+0	heed is related to this person
+0	hilt is related to this person
+-1	hired gun is related to this person
+1	honour is related to this person
+0	hub plank is related to this person
+0	janissary is related to this person
+0	judas window is related to this person
+0	junkyard dog is related to this person
+0	kangal is related to this person
+0	keep is related to this person
+0	keep watch is related to this person
+0	keeper is related to this person
+0	klarogo is related to this person
+0	klexter is related to this person
+0	langet is related to this person
+0	lantern is related to this person
+0	locker is related to this person
+0	marã©chaussã©e is related to this person
+0	merthis person is related to this person
+0	nasal is related to this person
+0	night watch is related to this person
+0	night watchman is related to this person
+0	nightthis person is related to this person
+0	nightwatchman is related to this person
+0	nonthis person is related to this person
+0	nonguarded is related to this person
+0	offensive tackle is related to this person
+0	on oneâs this person is related to this person
+0	on watch is related to this person
+0	outthis person is related to this person
+0	paper park is related to this person
+0	para is related to this person
+0	parole is related to this person
+0	petty officer is related to this person
+0	phylax is related to this person
+0	picket is related to this person
+0	presidary is related to this person
+-1	prison chaser is related to this person
+0	proostracum is related to this person
+0	protect is related to this person
+0	protect is related to this person
+0	protector is related to this person
+0	quillon is related to this person
+0	recovery is related to this person
+0	red flag is related to this person
+0	rondel is related to this person
+0	rub iron is related to this person
+0	safe is related to this person
+0	safe conduct is related to this person
+0	safethis person is related to this person
+0	safety pin is related to this person
+0	schiavona is related to this person
+0	sentinel is related to this person
+0	sentry is related to this person
+0	shepherd is related to this person
+0	shooting this person is related to this person
+0	shutter is related to this person
+0	sky marshal is related to this person
+0	sneak past is related to this person
+0	spearcaster is related to this person
+0	splashboard is related to this person
+0	splasher is related to this person
+0	stand this person is related to this person
+0	strelitz is related to this person
+0	sub hilt is related to this person
+0	swarf penny is related to this person
+0	swiss this person is related to this person
+0	tackle is related to this person
+0	tail end charlie is related to this person
+0	take this person is related to this person
+0	thimble is related to this person
+0	thumb ring is related to this person
+0	tsuba is related to this person
+0	tutelage is related to this person
+0	underbear is related to this person
+0	underfang is related to this person
+0	underthis person is related to this person
+0	unthis person is related to this person
+0	unguarded is related to this person
+-1	unsentinelled is related to this person
+0	unwarded is related to this person
+-1	vigilance is related to this person
+0	walk beat is related to this person
+0	ward is related to this person
+0	ward is related to this person
+0	ward is related to this person
+0	ward is related to this person
+0	warden is related to this person
+0	warder is related to this person
+0	wardsman is related to this person
+0	wardswoman is related to this person
+0	watch is related to this person
+0	watch is related to this person
+0	watch and ward is related to this person
+0	watch over is related to this person
+0	watcher is related to this person
+0	watchword is related to this person
+0	watershoot is related to this person
+0	wear is related to this person
+0	wite is related to this person
+0	bodythis person synonym this person
+-1	captor synonym this person
+0	corrections officer synonym this person
+0	fence synonym this person
+0	this person synonym this person
+0	this person synonym ø­ø§ø±ø³
+0	this person synonym ð°ñð¾ð²ð°
+0	this person synonym ð°ñð¾ñð½ñðº
+0	this person synonym ð²ð°ññð°ð²ñ
+0	this person synonym ð¾ññð°ð½ð°
+0	this person synonym ñññð°ð¶ð°
+0	this person synonym a adahi
+0	this person synonym strã¡å¾
+0	this person synonym livvagt
+0	this person synonym vagt
+0	this person synonym wã¤chter
+0	this person synonym ïîºî¿ïî¿ï
+0	this person synonym ïïî¿ïïî¿ï
+0	this person synonym ïïî»î±îºî±ï
+0	this person synonym fender
+0	this person synonym protection
+0	this person synonym quillon
+0	this person synonym gardisto
+0	this person synonym this persona
+0	this person synonym this personia
+0	this person synonym valvur
+0	this person synonym ùú¯ùø¨ø§ù
+0	this person synonym ù¾ø§ø³ø¨ø§ù
+0	this person synonym suojus
+0	this person synonym vartija
+0	this person synonym guwardiya
+-1	this person synonym garde
+0	this person synonym garda
+0	this person synonym freiceadan
+0	this person synonym geã rd
+0	this person synonym garda
+0	this person synonym ïîºî¿ïî¿ï
+0	this person synonym ïïî»î±î¾
+0	this person synonym ××©××¨
+0	this person synonym ×©×××¨
+0	this person synonym à¤°à¤à¥à¤·à¤
+0	this person synonym år
+0	this person synonym õºõ¡õ°õ¡õ¯
+0	this person synonym õºõ¡õ°õ¡õºõ¡õ¶
+0	this person synonym vã¶rã°ur
+0	this person synonym this personia
+0	this person synonym piantone
+0	this person synonym ã¬ã¼ã
+0	this person synonym ç£è¦è
+0	this person synonym è¡åµ
+0	this person synonym ááááá¶á
+0	this person synonym áááá¶á
+0	this person synonym ê°ë
+0	this person synonym ìë³
+0	this person synonym custos
+0	this person synonym àºàº²àº¡
+0	this person synonym sorgs
+0	this person synonym sargs
+0	this person synonym kaitiaki
+0	this person synonym ññð²ð°ñ
+0	this person synonym áááºá¸
+0	this person synonym á¡áá±á¬áá·áº
+0	this person synonym á¡áá­ááºá¸
+0	this person synonym bewaker
+0	this person synonym lijfwacht
+0	this person synonym wacht
+0	this person synonym vakt
+0	this person synonym haê¼asã­dã­
+0	this person synonym straå¼nik
+0	this person synonym this persona
+0	this person synonym gardian
+0	this person synonym gardä
+0	this person synonym paznic
+0	this person synonym päzitor
+0	this person synonym ðºð°ñð°ñð»ñð½ñð¹
+0	this person synonym ðºð¾ð½ð²ð¾ð¸ñ
+0	this person synonym ð¾ññð°ð½ð½ð¸ðº
+0	this person synonym ññð¾ñð¾ð¶
+0	this person synonym ñññð°ð¶
+0	this person synonym ñññð°ð¶ð½ð¸ðº
+0	this person synonym ñð°ñð¾ð²ð¾ð¹
+0	this person synonym straå¾ar
+0	this person synonym äuvar
+0	this person synonym strã¡å¾
+0	this person synonym strã¡å¾nik
+0	this person synonym straå¾a
+0	this person synonym straå¾ar
+0	this person synonym vakt
+0	this person synonym askari
+0	this person synonym mlinzi
+0	this person synonym walinzi
+0	this person synonym à¸à¸£à¸´à¸à¸²à¸¥
+0	this person synonym à¸¢à¸²à¸¡
+0	this person synonym bekã§i
+0	this person synonym ð²ð°ññð°
+0	this person synonym ð·ð°ñð¸ñð½ð¸ðº
+0	this person synonym ð¾ñð¾ñð¾ð½ð°
+0	this person synonym ð¾ñð¾ñð¾ð½ðµññ
+0	this person synonym vá» sä©
+0	this person synonym å«åµ
+0	this person synonym å«å£«
+0	this person synonym è¡åµ
+0	this person synonym è¡å£«
+-1	this person synonym this person duty
+0	this person synonym precaution
+0	this person synonym garder
+0	this person synonym defend
+-1	jailer synonym this person
+1	protect synonym this person
+1	protector synonym this person
+1	safety synonym this person
+0	safety device synonym this person
+0	sentry synonym this person
+0	tend synonym this person
+0	ticket collector synonym this person
+0	ward synonym this person
+0	this person is used for this person

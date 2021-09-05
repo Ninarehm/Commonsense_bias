@@ -1,0 +1,494 @@
+0	this person is located at orchestra
+0	this person is located at stage
+0	this person is located at studio
+0	this person is located at symphony
+0	this person is located at tour
+0	this person is located at tour bus
+0	this person is capable of blow trumpet
+0	this person is capable of hear sounds
+1	this person is capable of master instrument
+-1	this person is capable of nail difficult passage
+1	this person is capable of perfect song
+0	this person is capable of play fiddle
+0	this person is capable of play guitar
+0	this person is capable of play harp
+0	this person is capable of play musical instrument
+0	this person is capable of play oboe
+0	this person is capable of play ocarina
+0	this person is capable of play song
+0	this person is capable of play violin
+0	this person is capable of record music
+0	this person is capable of record song
+0	this person is capable of sing cappella
+0	this person is capable of tune guitar
+0	ethnothis person is derived from this person
+0	this person is derived from music
+0	musicianer is derived from this person
+0	musicianess is derived from this person
+0	musicianly is derived from this person
+1	musicianship is derived from this person
+0	muso is derived from this person
+0	muso is derived from this person
+0	nonthis person is derived from this person
+0	pop this person is derived from this person
+0	session this person is derived from this person
+0	street this person is derived from this person
+0	this person desires have good acoustics
+0	this person desires make music
+0	graphician is etymologically related to this person
+0	this person is etymologically related to ian
+0	this person is etymologically related to music
+0	this person is etymologically related to musicien
+0	musicians is a form of this person
+0	this person has the context music
+0	one woman band has the context this person
+0	fiddle requires this person
+-1	accompanist is a this person
+0	accordionist is a this person
+0	accordionist is a this person
+0	accordionist is a this person
+0	acoustic guitarist is a this person
+0	arranger is a this person
+0	bagpiper is a this person
+0	bandsman is a this person
+0	banjoist is a this person
+0	bass guitarist is a this person
+0	bassist is a this person
+0	bassist is a this person
+0	bassist is a this person
+0	bassoonist is a this person
+0	bassoonist is a this person
+0	bassoonist is a this person
+0	beatles is a this person
+0	bell ringer is a this person
+0	bell ringer is a this person
+-1	bongoist is a this person
+0	bowie is a this person
+0	bugler is a this person
+0	carillonist is a this person
+0	carillonneur is a this person
+-1	castanetist is a this person
+-1	celestist is a this person
+0	cellist is a this person
+0	cellist is a this person
+0	cellist is a this person
+0	chimist is a this person
+0	choirmaster is a this person
+0	clarinetist is a this person
+0	clarinetist is a this person
+0	clavichordist is a this person
+0	composer is a this person
+0	composer is a this person
+0	concertinist is a this person
+0	concertinist is a this person
+0	conductor is a this person
+0	conductor is a this person
+0	contrabassist is a this person
+-1	contrabassoonist is a this person
+0	cornetist is a this person
+0	cornetist is a this person
+0	cymbalist is a this person
+0	didgeridooist is a this person
+0	drummer is a this person
+0	drummer is a this person
+0	dulcimerist is a this person
+0	electric guitarist is a this person
+0	euphoniumist is a this person
+0	fiddler is a this person
+0	first violinist is a this person
+0	flageoletist is a this person
+0	flautist is a this person
+0	flautist is a this person
+0	flutist is a this person
+0	flutist is a this person
+0	gambist is a this person
+0	gambist is a this person
+0	garry willis is a this person
+-1	glam rocker is a this person
+0	this person is a this person
+0	this person is a this person
+0	this person is a this person
+0	harmonicist is a this person
+0	harmonizer is a this person
+0	harpist is a this person
+0	harpist is a this person
+0	harpsichordist is a this person
+0	harpsichordist is a this person
+0	hornist is a this person
+0	hornist is a this person
+0	instrumentalist is a this person
+0	jazz this person is a this person
+0	jerry is a this person
+0	keyboardist is a this person
+0	koto player is a this person
+0	lefty frizzell is a this person
+0	lutanist is a this person
+0	lutenist is a this person
+0	lutist is a this person
+0	lutist is a this person
+0	maestro is a this person
+0	mandolinist is a this person
+0	marimbist is a this person
+0	musical performer is a this person
+0	this person is a this person
+0	this person is a person who plays music
+0	this person is a artist
+0	this person is a artist
+0	this person is a performer
+0	oboist is a this person
+0	oboist is a this person
+0	organist is a this person
+0	organist is a this person
+0	percussionist is a this person
+0	percussionist is a this person
+0	pianist is a this person
+0	pianist is a this person
+0	pianist is a this person
+0	piccoloist is a this person
+0	piper is a this person
+0	piper is a this person
+1	popular music star is a this person
+0	rapper is a this person
+0	recorder player is a this person
+0	recording artist is a this person
+0	rhythm and blues this person is a this person
+0	rocker is a this person
+0	rockstar is a this person
+0	sarangist is a this person
+0	saxophonist is a this person
+0	saxophonist is a this person
+0	saxophonist is a this person
+0	scott henderson is a this person
+0	singer is a this person
+0	singer is a this person
+0	singer is a this person
+0	singer songwriter is a this person
+0	sitar player is a this person
+0	sitarist is a this person
+0	soloist is a this person
+0	songwriter is a this person
+0	songwriter is a this person
+0	sousaphonist is a this person
+0	tambourinist is a this person
+0	terry is a this person
+0	thereminist is a this person
+0	timpanist is a this person
+0	tromboner is a this person
+0	trombonist is a this person
+0	trombonist is a this person
+0	trumpeter is a this person
+0	trumpeter is a this person
+0	tubaist is a this person
+0	tubist is a this person
+0	ukulelist is a this person
+0	vibist is a this person
+0	violinist is a this person
+0	violinist is a this person
+0	violinist is a this person
+0	violist is a this person
+0	violist is a this person
+0	violist is a this person
+1	virtuoso is a this person
+0	vocalist is a this person
+0	who plays musical instrument is a this person
+0	xylophonist is a this person
+0	go on stage is motivated by this person
+0	play harp is motivated by this person
+0	play violin is motivated by this person
+0	27 club is related to this person
+0	aftertouch is related to this person
+0	axeman is related to this person
+0	bachian is related to this person
+0	backing is related to this person
+0	band is related to this person
+0	band is related to this person
+0	bandfic is related to this person
+0	bandslash is related to this person
+0	bandstand is related to this person
+0	bandwagon is related to this person
+0	barbershop quartet is related to this person
+0	bard is related to this person
+0	bassist is related to this person
+0	beat is related to this person
+0	bebopper is related to this person
+0	bluesman is related to this person
+0	blueswoman is related to this person
+0	bongoist is related to this person
+0	brass band is related to this person
+0	britpopper is related to this person
+0	bumper is related to this person
+0	calypsonian is related to this person
+0	classical is related to this person
+0	clavecinist is related to this person
+0	clavierist is related to this person
+0	cobainesque is related to this person
+0	cobainiac is related to this person
+0	collab is related to this person
+0	composer is related to this person
+0	conguero is related to this person
+0	consort is related to this person
+0	cowellian is related to this person
+2	creative differences is related to this person
+0	cymbalist is related to this person
+0	dectet is related to this person
+0	duodecet is related to this person
+0	eisteddfod is related to this person
+0	eldritchian is related to this person
+0	ensemble is related to this person
+0	ensemblist is related to this person
+0	first chair is related to this person
+0	folkster is related to this person
+0	fuguist is related to this person
+0	funkster is related to this person
+0	gharana is related to this person
+0	gig is related to this person
+0	gig is related to this person
+0	gigster is related to this person
+0	gillespian is related to this person
+0	glam rocker is related to this person
+0	griot is related to this person
+0	grobanite is related to this person
+0	guest is related to this person
+0	gusli is related to this person
+0	heterophony is related to this person
+0	hurdy gurdyist is related to this person
+0	instrument is related to this person
+0	jam session is related to this person
+0	jammer is related to this person
+0	jazzbo is related to this person
+0	jazzer is related to this person
+0	jazzist is related to this person
+0	jazzperson is related to this person
+0	jazzster is related to this person
+0	jug band is related to this person
+0	kapelye is related to this person
+0	kettledrummer is related to this person
+0	kinnara is related to this person
+0	labelmate is related to this person
+0	lirnyk is related to this person
+0	marching band is related to this person
+0	mariachero is related to this person
+0	minnesinger is related to this person
+0	minstrel gallery is related to this person
+0	minstrels gallery is related to this person
+0	music group is related to this person
+0	musical instrument is related to this person
+0	musicaster is related to this person
+0	this person is related to any
+0	this person is related to any kind
+0	this person is related to artist
+0	this person is related to band
+0	this person is related to band member
+0	this person is related to bars
+0	this person is related to bars theater
+0	this person is related to instrument
+0	this person is related to instrument player
+0	this person is related to instruments
+0	this person is related to job
+0	this person is related to job music
+0	this person is related to kind
+0	this person is related to maybe
+0	this person is related to maybe sings
+0	this person is related to member
+0	this person is related to music
+0	this person is related to person
+0	this person is related to person who
+0	this person is related to player
+0	this person is related to plays
+0	this person is related to plays instrument
+0	this person is related to profession
+0	this person is related to sings
+0	this person is related to theater
+0	this person is related to tune
+0	this person is related to tune player
+0	this person is related to who
+0	this person is related to composer
+0	this person is related to conductor
+0	this person is related to hobby
+0	this person is related to music
+0	this person is related to musical instrument
+0	this person is related to this personship
+0	this person is related to occupation
+0	this person is related to performer
+0	this person is related to profession
+0	this person is related to musicien
+0	musicianer is related to this person
+0	musicianess is related to this person
+0	musicianly is related to this person
+0	musicians is related to this person
+0	musicianship is related to this person
+0	musicker is related to this person
+0	noisemonger is related to this person
+0	noisenik is related to this person
+0	nonthis person is related to this person
+0	octobass is related to this person
+0	one man band is related to this person
+0	orchestra pit is related to this person
+0	organist is related to this person
+0	orpheus is related to this person
+0	padrone is related to this person
+0	percussionist is related to this person
+0	philharmonic orchestra is related to this person
+0	pianist is related to this person
+0	piper is related to this person
+0	popslash is related to this person
+0	quintet is related to this person
+0	ragtimer is related to this person
+0	real person fiction is related to this person
+0	rebetis is related to this person
+0	record deal is related to this person
+0	reggaetonero is related to this person
+0	rhythmist is related to this person
+0	ripienist is related to this person
+0	rock band is related to this person
+-1	rocksploitation is related to this person
+0	sambista is related to this person
+0	schenkerian is related to this person
+0	session band is related to this person
+0	session this person is related to this person
+0	shoegazer is related to this person
+0	singer songwriter is related to this person
+0	songwriter is related to this person
+0	soundpainting is related to this person
+0	spanker is related to this person
+0	spoonist is related to this person
+0	street this person is related to this person
+0	street performer is related to this person
+0	strillers is related to this person
+0	string player is related to this person
+0	string quartet is related to this person
+0	string quintet is related to this person
+0	supergroup is related to this person
+0	synthesist is related to this person
+0	talk box is related to this person
+0	toner is related to this person
+0	tracker is related to this person
+0	trancester is related to this person
+0	tribute band is related to this person
+0	trumpet is related to this person
+0	twangster is related to this person
+0	verve is related to this person
+0	viellist is related to this person
+0	violer is related to this person
+0	virginalist is related to this person
+1	virtuoso is related to this person
+0	vonce is related to this person
+0	wagnerian is related to this person
+0	youngian is related to this person
+0	youthman is related to this person
+0	instrumentalist synonym this person
+0	this person synonym this person
+0	this person synonym musici
+0	this person synonym musikant
+0	this person synonym musikus
+0	this person synonym ùùø³ùùù
+0	this person synonym mãºsicu
+0	this person synonym musiqiã§i
+0	this person synonym ð¼ñð·ñðºð°
+0	this person synonym ð¼ñð·ñðºð°ð½ñ
+0	this person synonym ð¼ñð·ð¸ðºð°ð½ñ
+0	this person synonym à¦¬à¦¾à¦¦à¦
+0	this person synonym muziker
+0	this person synonym muzisian
+0	this person synonym soner
+0	this person synonym sonour
+0	this person synonym mãºsic
+0	this person synonym ð¼ñð·ñðºð°ð½ñ
+0	this person synonym hudebnã­k
+0	this person synonym muzikant
+0	this person synonym cerddwr
+0	this person synonym cerddwyr
+0	this person synonym musiker
+0	this person synonym musiker
+0	this person synonym musikerin
+0	this person synonym musikus
+0	this person synonym tonkã¼nstler
+0	this person synonym î¼î¿ïïî¹îºî¿ï
+0	this person synonym muzikisto
+0	this person synonym mãºsico
+0	this person synonym muusik
+0	this person synonym musikari
+0	this person synonym ùùø²ûø³ûù
+0	this person synonym ùùø²ûú©ø§ù
+0	this person synonym ùùø³ûùûø¯ø§ù
+0	this person synonym muusikko
+0	this person synonym musiko
+0	this person synonym musicien
+0	this person synonym musicienne
+0	this person synonym ceoltã³ir
+0	this person synonym ceã²ladair
+0	this person synonym neach ciã¹il
+0	this person synonym mãºsica
+0	this person synonym mãºsico
+0	this person synonym î¼î¿ïïî¹îºî¿ï
+0	this person synonym ×××××§××
+0	this person synonym à¤¸à¤à¤à¥à¤¤à¤à¤¾à¤°
+0	this person synonym muzsikus
+0	this person synonym zenã©sz
+0	this person synonym õ¥öõ¡õªõ«õ·õ¿
+0	this person synonym tã³nlistarmaã°ur
+0	this person synonym musicista
+0	this person synonym musico
+0	this person synonym é³æ¥½å®¶
+0	this person synonym áá£á¡áááá¡á
+0	this person synonym ð¼ñð·ñðºð°ð½ñ
+0	this person synonym nipilersortartoq
+0	this person synonym áá¶ááá
+0	this person synonym á¢áááááááá
+0	this person synonym é³æ¨å®¶
+0	this person synonym ììê°
+0	this person synonym ð¼ñð·ñðºð°ð½ñ
+0	this person synonym museker
+0	this person synonym musekerin
+0	this person synonym àºàº±àºàºàº»àºàºàºµ
+0	this person synonym muzikantas
+0	this person synonym muzikas
+0	this person synonym må«ziä·is
+0	this person synonym kaiwhakatangi
+0	this person synonym ð¼ñð·ð¸ñð°ñ
+0	this person synonym ñó©ð³ð¶ð¸ð¼ñð¸ð½
+0	this person synonym musikus
+0	this person synonym pemusik
+0	this person synonym pemuzik
+0	this person synonym áá®áááá¬á¸
+0	this person synonym musicus
+0	this person synonym muzikant
+0	this person synonym muzikante
+0	this person synonym musikar
+0	this person synonym musiker
+0	this person synonym musicien
+0	this person synonym muzyk
+0	this person synonym mãºsico
+0	this person synonym muzician
+0	this person synonym muzicianä
+0	this person synonym ð¼ñð·ñðºð°ð½ñ
+0	this person synonym ð¼ñð·ñðºð°ð½ñðºð°
+0	this person synonym glazbenik
+0	this person synonym muziäar
+0	this person synonym hudobnã­k
+0	this person synonym muzikant
+0	this person synonym glasbenica
+0	this person synonym glasbenik
+0	this person synonym muzikant
+0	this person synonym sebini
+0	this person synonym musikant
+0	this person synonym musiker
+0	this person synonym mwanamuziki
+0	this person synonym mwimbaji
+0	this person synonym ð¼ññð¸òð°ñð¸
+0	this person synonym à¸à¸±à¸à¸à¸à¸à¸£à¸µ
+0	this person synonym sazanda
+0	this person synonym sazandar
+0	this person synonym mã¼zisyen
+0	this person synonym ð¼ñð·ð¸ðºð°ð½ñ
+0	this person synonym ùùø³ûùø§ø±
+0	this person synonym muzikachi
+0	this person synonym muzikant
+0	this person synonym nháº¡c sä©
+0	this person synonym musigan
+0	this person synonym ðºó©ð³òð¼ñ
+0	this person synonym ×××××§×¢×¨
+0	this person synonym é³ä¹å®¶
+0	this person synonym é³æ¨å®¶
+0	player synonym this person
+0	saxophone is used for this person
