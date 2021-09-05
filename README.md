@@ -35,7 +35,7 @@ to plot the results for ConceptNet results using regard classifier.
 python3 plot.py
 ```
 
-#To reproduce the frequency analysis results on ConceptNet:
+# To reproduce the frequency analysis results on ConceptNet:
 
 ```bash
 cd ConceptNet_frequency
@@ -44,3 +44,7 @@ cd ConceptNet_frequency
 python3 frequency_bias.py --infile ./../ConceptNet_regard/masked_regard_output/ --category origin
 ```
 in which category can be replaced by either of the 4 studied categories in the paper.
+
+# Contact
+For questions contact ninarehm at usc.edu and/or peiz at usc.edu 
+
